@@ -4,7 +4,7 @@
 # === Part 1 ===
 1_chapters/00-orientation/00-intro.md
 1_chapters/00-orientation/01-what-this-is.md
-1_chapters/00-orientation/00-how-to-read.md
+1_chapters/00-orientation/02-how-to-read.md
 
 # === Part 2 ===
 # 1_chapters/part-2-what-and-why/part-2-intro.md
