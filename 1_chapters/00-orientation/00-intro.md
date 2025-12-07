@@ -1,4 +1,4 @@
-# Part I - Orientation  
+# Part 0 - Orientation  
 *Where This Is Coming From*
 
 I didn’t start here because I was curious about consciousness.

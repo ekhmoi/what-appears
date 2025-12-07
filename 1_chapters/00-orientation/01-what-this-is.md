@@ -1,8 +1,10 @@
-## What This Is (And What It’s Not)
+## Chapter 1 - What This Is (And What It’s Not)
 
 Before we go further, I want to set some boundaries around what this project is.
 
-## What this is not
+### What this is not
+
+---
 
 This is **not**:
 
@@ -20,17 +22,19 @@ This is **not**:
 
 If you’re in acute crisis, suicidal, or traumatised, you deserve real humans and solid support. A book — especially this one — is not emergency equipment.
 
-## What this *is*
+### What this _is_
+
+---
 
 You can think of this as:
 
 > A user’s manual for “what appears” — written by someone who’s had to rebuild their firmware more than once.
 
-If you’re technical, you can also read it as an architecture document for experience. Not *the* design, but *a* design that seems to match a certain kind of mind that’s crossed:
+If you’re technical, you can also read it as an architecture document for experience. Not _the_ design, but _a_ design that seems to match a certain kind of mind that’s crossed:
 
-- religious certainty,  
-- anti-religious certainty,  
-- altered states,  
+- religious certainty,
+- anti-religious certainty,
+- altered states,
 - and the need for things to actually make structural sense.
 
 A few core ideas that will show up:
@@ -42,20 +46,22 @@ A few core ideas that will show up:
 - **Compressions** – how things like “tree”, “friend”, “future”, “my personality”, “sin”, “trauma” show up as manageable chunks rather than raw chaos.
 
 - **Two basic moves** the system can make when things are painful:
-  - **Stabilise** – tighten around a trustworthy “I”, values, boundaries.  
+  - **Stabilise** – tighten around a trustworthy “I”, values, boundaries.
   - **Dissolve** – let the situation breathe, soften hard splits like “in here vs out there”.
 
 None of these are sacred words. They’re just handles I’ve found useful.
 
 The point isn’t that you end up believing **“there is a field and compressions”** as dogma. The point is that **looking at experience in this way** might make some of your tangles more understandable and a bit less punishing.
 
-## Why I’m leaving this trace
+### Why I’m leaving this trace
+
+---
 
 I’m mostly writing for people whose lives have been split across big fault lines:
 
-- Religious vs secular.  
-- Straight vs queer.  
-- Rational vs mystical.  
+- Religious vs secular.
+- Straight vs queer.
+- Rational vs mystical.
 - Cynical vs hopeful.
 
 The kinds of minds that have tried on several total stories, found each one too small, and are left with weird experiences, old guilt, and no stable lens that doesn’t insult some part of them.
