@@ -1,0 +1,53 @@
+name: Build book PDF
+
+on:
+  push:
+    branches: [ main ]               # change branch if needed
+    paths:
+      - "1-chapters/**"
+      - "2-wrappers/**"
+      - "book-order.txt"
+      - ".github/workflows/build-book.yml"
+
+jobs:
+  build-book:
+    runs-on: ubuntu-latest
+
+    # Needed to push book.pdf back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Collect files from book-order.txt
+        id: files_list
+        run: |
+          # Take non-comment, non-empty lines and turn them into a quoted list:
+          FILES=$(
+            grep -vE '^\s*#' book-order.txt | \
+            sed '/^\s*$/d' | \
+            xargs printf '"%s" '
+          )
+          echo "files=${FILES}" >> "$GITHUB_OUTPUT"
+
+      - name: Build book.pdf with Pandoc
+        # Official pandoc+LaTeX image; includes what you need for PDF output :contentReference[oaicite:0]{index=0}
+        uses: docker://pandoc/latex:latest
+        with:
+          args: >-
+            --toc
+            --number-sections
+            --top-level-division=part
+            --pdf-engine=xelatex
+            --resource-path=.:1-chapters:2-wrappers
+            -o book.pdf
+            ${{ steps.files_list.outputs.files }}
+
+      - name: Commit updated book.pdf
+        # Auto-commit changed files back to your repo :contentReference[oaicite:1]{index=1}
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update generated book.pdf"
+          file_pattern: "book.pdf"

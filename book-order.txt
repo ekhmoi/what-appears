@@ -1,0 +1,20 @@
+# === front matter ===
+# 2_wrappers/front-matter.md
+
+# === Part 1 ===
+1_chapters/part-1-orientation/part-1-intro.md
+1_chapters/part-1-orientation/01-why-this-book.md
+# 1_chapters/part-1-orientation/02-how-to-read-this-book.md
+
+# === Part 2 ===
+# 1_chapters/part-2-what-and-why/part-2-intro.md
+# 1_chapters/part-2-what-and-why/01-some-chapter.md
+# 1_chapters/part-2-what-and-why/02-another-chapter.md
+
+# ...
+
+# === Part 6 / Epilogue ===
+# 1-chapters/part-6-epilogue/epilogue.md
+
+# === back matter ===
+# 2-wrappers/back-matter.md

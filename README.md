@@ -4,7 +4,7 @@ This repo is a playground / studio for writing a book about appearance, field, c
 
 There are two main layers:
 
-- **Reader-facing:** `1-manuscript/` (the actual book text being developed)  
+- **Reader-facing:** `1-chapters/` (the actual book text being developed)  
 - **Author-facing:** everything else (project notes, wrappers, snippets, chapter notes, raw dumps, archive)
 
 ---
@@ -23,7 +23,7 @@ Nothing here is meant for readers.
 
 ---
 
-### `1-manuscript/` – the book itself in flux
+### `1-chapters/` – the book itself in flux
 
 Reader-facing manuscript, in order.
 
@@ -37,9 +37,9 @@ If someone asks to “see the work”, they essentially see content from here.
 
 ---
 
-### `2-wrappers/` – intros around the manuscript
+### `2-wrappers/` – intros around the chapters
 
-Things that *point into* the manuscript, with different framings:
+Things that *point into* the chapters, with different framings:
 
 - `intro-general.md` – for curious non-specialists
 - `intro-rationalist.md` – for model/agent/uncertainty people
@@ -103,7 +103,7 @@ Later, you can mine good bits out into `4-notes/` or `3-snippets/`.
 Old but maybe-useful stuff:
 
 - `original-pdfs/` – original “What Appears”, “Appearance, Field, and Compression”, “Stabilize / Dissolve” docs
-- `cut-chunks.md` – sections removed from the manuscript but worth keeping around
+- `cut-chunks.md` – sections removed from the chapters but worth keeping around
 - `old-outline-*.md` – previous TOC versions
 
 Nothing here is active, but it means you never have to truly delete anything.
@@ -112,10 +112,10 @@ Nothing here is active, but it means you never have to truly delete anything.
 
 ## How to use this day-to-day
 
-- **Writing manuscript text?** → edit files in `1-manuscript/`.
+- **Writing chapters text?** → edit files in `1-chapters/`.
 - **Working on a specific chapter (ideas, TODOs, alternative framings)?** → its matching file in `4-notes/`.
 - **Came up with a good example / metaphor / line?** → also copy it into `3-snippets/`.
 - **Have thoughts but no idea where they belong yet?** → dump into `5-raw/`.
-- **Changing the structure of the manuscript?** → update `0-project/outline.md`, then mirror that in `1-manuscript/` + `4-notes/`.
+- **Changing the structure of the chapters?** → update `0-project/outline.md`, then mirror that in `1-chapters/` + `4-notes/`.
 
 This README is for me (and any future collaborators) to remember how the studio is laid out.
