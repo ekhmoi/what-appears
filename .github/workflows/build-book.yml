@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]               # change branch if needed
     paths:
-      - "1-chapters/**"
-      - "2-wrappers/**"
+      - "1_chapters/**"
+      - "2_wrappers/**"
       - "book-order.txt"
       - ".github/workflows/build-book.yml"
 
