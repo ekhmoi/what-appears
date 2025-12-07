@@ -32,8 +32,20 @@ jobs:
           )
           echo "files=${FILES}" >> "$GITHUB_OUTPUT"
 
+      # - name: Build book.pdf with Pandoc
+      #   # Official pandoc+LaTeX image; includes what you need for PDF output :contentReference[oaicite:0]{index=0}
+      #   uses: docker://pandoc/latex:latest
+      #   with:
+      #     args: >-
+      #       --toc
+      #       --number-sections
+      #       --top-level-division=part
+      #       --pdf-engine=xelatex
+      #       --resource-path=.:1-chapters:2-wrappers
+      #       -o book.pdf
+      #       ${{ steps.files_list.outputs.files }}
+
       - name: Build book.pdf with Pandoc
-        # Official pandoc+LaTeX image; includes what you need for PDF output :contentReference[oaicite:0]{index=0}
         uses: docker://pandoc/latex:latest
         with:
           args: >-
@@ -41,9 +53,14 @@ jobs:
             --number-sections
             --top-level-division=part
             --pdf-engine=xelatex
-            --resource-path=.:1-chapters:2-wrappers
+            --resource-path=.:1_chapters:2_wrappers
+            -V documentclass=report
+            -V classoption=oneside
+            -V classoption=openany
+            -V geometry:margin=2.5cm
             -o book.pdf
             ${{ steps.files_list.outputs.files }}
+
 
       - name: Commit updated book.pdf
         # Auto-commit changed files back to your repo :contentReference[oaicite:1]{index=1}
