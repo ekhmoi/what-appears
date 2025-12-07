@@ -1,4 +1,4 @@
-## Chapter 2 - Structure: Figure, Background, Near and Far
+## Structure: Figure, Background, Near and Far
 
 In the last chapter we called the whole situation of your current experience **the field**.
 

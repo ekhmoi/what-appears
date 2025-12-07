@@ -1,4 +1,4 @@
-## Chapter 1 - What Difficult Feelings Point To
+## What Difficult Feelings Point To
 
 Difficult feelings can look like enemies:
 

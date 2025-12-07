@@ -1,4 +1,4 @@
-## Chapter 4 - Here, This Body, and the Sense of “Me”
+## Here, This Body, and the Sense of “Me”
 
 We’ve been talking about:
 

@@ -1,4 +1,4 @@
-## Chapter 4 - Weaving Responses and Staying Oriented
+## Weaving Responses and Staying Oriented
 
 We now have two big moves on the table:
 

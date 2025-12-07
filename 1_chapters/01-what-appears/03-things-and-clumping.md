@@ -1,4 +1,4 @@
-## Chapter 3 - Things and Clumping
+## Things and Clumping
 
 So far we’ve talked about:
 

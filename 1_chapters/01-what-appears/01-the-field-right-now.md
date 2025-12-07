@@ -1,4 +1,4 @@
-## Chapter 1 - The Field: Right Now, This Whole Situation
+## The Field: Right Now, This Whole Situation
 
 Let’s not start with a definition.  
 Let’s start with you, sitting (or lying, or standing) where you are.

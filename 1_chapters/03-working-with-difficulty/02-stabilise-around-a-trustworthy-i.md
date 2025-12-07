@@ -1,4 +1,4 @@
-## Chapter 2 - Move One – Stabilise Around a Trustworthy “I”
+## Move One – Stabilise Around a Trustworthy “I”
 
 The first big move the system can make in difficulty is:
 

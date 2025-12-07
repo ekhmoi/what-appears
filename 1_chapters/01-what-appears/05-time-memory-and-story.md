@@ -1,4 +1,4 @@
-## Chapter 5 - Time, Memory, and “My Life” as They Appear
+## Time, Memory, and “My Life” as They Appear
 
 So far we’ve mostly looked at what’s present:
 

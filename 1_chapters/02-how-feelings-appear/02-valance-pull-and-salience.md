@@ -1,4 +1,4 @@
-## Chapter 2 - Valence, Pull, and What Stands Out
+## Valence, Pull, and What Stands Out
 
 In Part I we treated feeling as part of the basic picture of experience:
 

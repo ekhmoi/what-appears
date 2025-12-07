@@ -1,4 +1,4 @@
-## Chapter 4 - Differentiation, Duality, and Nondual Clarity
+## Differentiation, Duality, and Nondual Clarity
 
 We’re almost done with the nerd layer.
 

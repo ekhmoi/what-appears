@@ -1,4 +1,4 @@
-## Chapter 5 - Examples and Mini Walkthroughs
+## Examples and Mini Walkthroughs
 
 To keep this from staying theoretical, here are a few simple scenarios.
 

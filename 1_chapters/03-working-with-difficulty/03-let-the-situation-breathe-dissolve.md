@@ -1,4 +1,4 @@
-## Chapter 3 - Move Two – Letting the Situation Breathe (Dissolve)
+## Move Two – Letting the Situation Breathe (Dissolve)
 
 If Move One is about **tightening** around a trustworthy “I” and clearer boundaries,
 

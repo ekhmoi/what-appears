@@ -1,4 +1,4 @@
-## Chapter 1 - What This Is (And What It’s Not)
+## What This Is (And What It’s Not)
 
 Before we go further, I want to set some boundaries around what this project is.
 

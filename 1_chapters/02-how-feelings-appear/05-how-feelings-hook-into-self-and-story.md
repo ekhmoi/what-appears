@@ -1,4 +1,4 @@
-## Chapter 5 - How Feelings Hook Into Self and Story
+## How Feelings Hook Into Self and Story
 
 By now we’ve got a few layers on the table:
 

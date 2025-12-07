@@ -1,4 +1,4 @@
-## Chapter 2 - Awareness-Mode and World-Level
+## Awareness-Mode and World-Level
 
 We’ve talked about **field** and **compression** in general.
 

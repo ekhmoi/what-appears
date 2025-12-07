@@ -1,4 +1,4 @@
-## Chapter 3 - Self, Mind, and Time as Compressions
+## Self, Mind, and Time as Compressions
 
 We’ve got:
 

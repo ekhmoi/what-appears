@@ -1,4 +1,4 @@
-## Chapter 6 - Staying Oriented When It Gets Weird
+## Staying Oriented When It Gets Weird
 
 Working directly with experience, self, and story can get… weird.
 

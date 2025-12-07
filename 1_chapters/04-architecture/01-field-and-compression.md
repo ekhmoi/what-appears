@@ -1,4 +1,4 @@
-## Chapter 1 - Field and Compression as a Way of Talking
+## Field and Compression as a Way of Talking
 
 Let’s start by putting two words right next to each other:
 

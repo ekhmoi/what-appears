@@ -1,4 +1,4 @@
-## Chapter 2 - How to Read This
+## How to Read This
 
 This isn’t meant to be consumed as doctrine. It’s meant to be played with.
 

@@ -50,6 +50,7 @@ jobs:
         with:
           args: >-
             --toc
+            --toc-depth=2
             --number-sections
             --top-level-division=part
             --pdf-engine=xelatex

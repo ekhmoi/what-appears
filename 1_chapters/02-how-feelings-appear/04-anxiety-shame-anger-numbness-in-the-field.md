@@ -1,4 +1,4 @@
-## Chapter 4 - Anxiety, Shame, Anger, and Numbness in the Field
+## Anxiety, Shame, Anger, and Numbness in the Field
 
 We’ve talked about:
 

@@ -1,4 +1,4 @@
-## Chapter 1 - Sensation, Emotion, and Mood in the Field
+## Sensation, Emotion, and Mood in the Field
 
 Let’s go back to the **field** from Part I:
 

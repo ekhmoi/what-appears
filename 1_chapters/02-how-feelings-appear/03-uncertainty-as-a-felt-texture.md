@@ -1,4 +1,4 @@
-## Chapter 3 - Uncertainty as a Felt Texture
+## Uncertainty as a Felt Texture
 
 So far we’ve talked about:
 
