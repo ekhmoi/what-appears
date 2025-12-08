@@ -1,3 +1,4 @@
 - talk about other feelings - love, tenderness, etc
 - talk about protocols - honesty
-- talk about ...
+- talk about how this book came to be, be honest
+- talk a
