@@ -1,0 +1,3 @@
+- talk about other feelings - love, tenderness, etc
+- talk about protocols - honesty
+- talk about ...
