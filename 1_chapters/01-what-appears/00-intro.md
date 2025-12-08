@@ -1,4 +1,4 @@
-# Part I Intro: What Appears
+# What Appears
 
 In Part 0 I gave you the backstory and the disclaimers.
 

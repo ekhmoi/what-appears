@@ -1,4 +1,4 @@
-# Part III – Working With Difficulty Inside Experience
+# Working With Difficulty Inside Experience
 
 So far we’ve mostly mapped the terrain:
 

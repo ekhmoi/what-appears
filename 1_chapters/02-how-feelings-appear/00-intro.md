@@ -1,4 +1,4 @@
-# Part II – How Feelings Appear
+# How Feelings Appear
 
 In Part I we stayed (mostly) with shapes:
 

@@ -1,4 +1,4 @@
-# Part IV – Architecture: Making Sense of It All
+# Architecture: Making Sense of It All
 
 If you’ve read this far, you’ve already met most of the pieces:
 
