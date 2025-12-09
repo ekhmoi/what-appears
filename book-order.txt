@@ -10,7 +10,8 @@
 1_chapters/01-what-appears/03-things-and-clumping.md
 1_chapters/01-what-appears/04-here-body-and-sense-of-me.md
 1_chapters/01-what-appears/05-time-memory-and-story.md
-1_chapters/01-what-appears/06-recap.md
+1_chapters/01-what-appears/06-how-others-appear.md
+1_chapters/01-what-appears/07-recap.md
 
 
 # === Part 2 ===
