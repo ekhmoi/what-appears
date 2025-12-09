@@ -1,8 +1,8 @@
-## Part III Recap: Working With Difficulty Inside Experience
+## Part IV Recap: Working With Difficulty Inside Experience
 
-Part III was about moving from **description** to **doing**.
+Part IV was about moving from **description** to **doing**.
 
-Given everything from Parts I & II — field, self, story, feelings, uncertainty — we asked:
+Given everything from Parts II & III — field, self, story, feelings, uncertainty — we asked:
 
 > When the field is in a painful, stuck configuration,  
 > what moves are actually available from the inside?
@@ -232,7 +232,7 @@ Finally, we added some guardrails for the whole project:
 
 ---
 
-If you had to compress Part III into one sentence:
+If you had to compress Part IV into one sentence:
 
 > When the field is in pain, you can relate to that pain as  
 > a signal about the current organisation —  

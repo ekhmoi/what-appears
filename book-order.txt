@@ -10,7 +10,7 @@
 1_chapters/02-what-appears/03-things-and-clumping.md
 1_chapters/02-what-appears/04-here-body-and-sense-of-me.md
 1_chapters/02-what-appears/05-time-memory-and-story.md
-1_chapters/02-what-appears/06-how-others-appear.md
+1_chapters/02-what-appears/06-others-in-the-field.md
 1_chapters/02-what-appears/07-recap.md
 
 
@@ -21,7 +21,9 @@
 1_chapters/03-how-feelings-appear/03-uncertainty-as-a-felt-texture.md
 1_chapters/03-how-feelings-appear/04-anxiety-shame-anger-numbness-in-the-field.md
 1_chapters/03-how-feelings-appear/05-how-feelings-hook-into-self-and-story.md
-1_chapters/03-how-feelings-appear/06-recap.md
+1_chapters/03-how-feelings-appear/06-love-tenderness-and-other-soft-appearances.md
+1_chapters/03-how-feelings-appear/07-physical-pain-and-extra-suffering.md
+1_chapters/03-how-feelings-appear/08-recap.md
 
 
 # === Part 4 ===
@@ -31,8 +33,10 @@
 1_chapters/04-working-with-difficulty/03-let-the-situation-breathe-dissolve.md
 1_chapters/04-working-with-difficulty/04-weaving-stabilise-and-dissolve.md
 1_chapters/04-working-with-difficulty/05-examples-and-mini-walkthroughs.md
-1_chapters/04-working-with-difficulty/06-staying-oriented-when-it-gets-weird.md
-1_chapters/04-working-with-difficulty/07-recap.md
+1_chapters/04-working-with-difficulty/06-honesty-protocol-inside-first-outside-eventually.md
+1_chapters/04-working-with-difficulty/07-staying-oriented-when-it-gets-weird.md
+1_chapters/04-working-with-difficulty/08-relational-difficulty-and-other-fields.md
+1_chapters/04-working-with-difficulty/09-recap.md
 
 
 # === Part 5 ===
