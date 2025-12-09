@@ -1,46 +1,50 @@
-# Part III – Working With Difficulty Inside Experience
+# Part II – How Feelings Appear
 
-So far we’ve mostly mapped the terrain:
+In Part I we stayed (mostly) with shapes:
 
-- Part I: **what appears** – field, structure, clumps, self, time, story.
-- Part II: **how feelings appear** – sensation, emotion, mood, uncertainty, anxiety/shame/anger/numbness, and how they hook into self and story.
+- the **field** of experience,
+- how it’s **structured**,
+- how it **clumps** into “things”,
+- how **here / body / me** show up,
+- how **time / memory / story** hang together.
 
-Now we switch emphasis from **description** to **moves**.
+We’ve already mentioned feeling here and there, but now we’re going to turn the lights up on it.
 
-Not:
+Because experience is not just:
 
-- external techniques to apply _to_ yourself from the outside,
-- or one magic trick to fix everything,
+- “a room plus a body plus some thoughts plus a timeline.”
 
-but:
+It’s also:
 
-> ways the field can **reorganise itself from the inside**  
-> when it finds itself in painful, stuck, or confusing configurations.
+- **comfortable or uncomfortable**,
+- heavy or light,
+- urgent or relaxed,
+- hopeful, flat, ashamed, anxious, numb, whatever.
 
-We’ll look at three layers:
+This part is about **how that affective side appears in the same field**.
 
-1. **What difficult feelings point to**  
-   – what they’re saying about the current organisation of self/world/time/story.
+We’ll look at:
 
-2. **Two basic moves** the system can make:
+- **raw sensations** – simple bodily feels,
+- **emotions** – anger, fear, sadness, joy, etc.,
+- **moods** – background weather,
+- **valence and pull** – pleasant / unpleasant / neutral; approach / avoid,
+- **uncertainty** – not just as an idea, but as a felt texture in the system.
 
-   - **stabilising** around a trustworthy “I”,
-   - **dissolving** overly tight clumps and splits.
+We’re still not trying to do psychology or neuroscience here.  
+We’re still not claiming “what feelings really are”.
 
-3. **Weaving** those moves in real life:
-   - how you can feel which move is needed when,
-   - how to avoid the common traps on both sides.
+We’re doing the same thing we did in Part I:
 
-Important:
+> Start from what appears,  
+> notice how it’s already structured,  
+> see how coarse or fine it can show up.
 
-- I’m not giving you commandments.
-- I’m not saying “always stabilise” or “always dissolve”.
-- I’m not saying you should be able to do any of this perfectly.
+Once we have feelings placed in this map, Part III will make more sense:
 
-Think of this part as:
+- what difficult feelings are **pointing at**,
+- and how the system can **reorganise** itself (stabilise / dissolve) in response.
 
-> a library of **possible reorganisations**  
-> that you can experiment with from inside your own field.
+For now, we’ll start with the basics:
 
-You already make both moves, all the time.  
-Part III just makes them more conscious, so you can lean on them when things get intense instead of defaulting to the harshest habits.
+> how **sensation, emotion, and mood** show up in the field at all.

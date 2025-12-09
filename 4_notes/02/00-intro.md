@@ -1,50 +1,41 @@
-# Part II – How Feelings Appear
+# Part I – What Appears
 
-In Part I we stayed (mostly) with shapes:
+In Part 0 I gave you the backstory and the disclaimers.
 
-- the **field** of experience,
-- how it’s **structured**,
-- how it **clumps** into “things”,
-- how **here / body / me** show up,
-- how **time / memory / story** hang together.
+From here on, we’re going to do something much simpler and much stranger:
 
-We’ve already mentioned feeling here and there, but now we’re going to turn the lights up on it.
+We’re going to look at what’s actually showing up in experience.
 
-Because experience is not just:
+Not:
 
-- “a room plus a body plus some thoughts plus a timeline.”
+- what you’ve been told is “really there”,
+- or what your preferred philosophy says exists,
+- or what some spiritual book claims is behind appearances.
 
-It’s also:
+Just: **what appears.**
 
-- **comfortable or uncomfortable**,
-- heavy or light,
-- urgent or relaxed,
-- hopeful, flat, ashamed, anxious, numb, whatever.
+Right now, as you’re reading this.
 
-This part is about **how that affective side appears in the same field**.
+The aim of this part is:
 
-We’ll look at:
+- to give you a felt sense of the **field** – the whole situation of experience at once,
+- to notice how that field is already **structured** (near/far, important/unimportant, “me”/“not me”),
+- to see how things like **world**, **body**, **self**, **time**, and **story** show up in that field.
 
-- **raw sensations** – simple bodily feels,
-- **emotions** – anger, fear, sadness, joy, etc.,
-- **moods** – background weather,
-- **valence and pull** – pleasant / unpleasant / neutral; approach / avoid,
-- **uncertainty** – not just as an idea, but as a felt texture in the system.
+We’re not going to explain any of this yet in terms of “how the brain works” or “what reality really is”. There is a time for models. This part is not that time.
 
-We’re still not trying to do psychology or neuroscience here.  
-We’re still not claiming “what feelings really are”.
+Think of it like inspecting a running system before you open the source code.
 
-We’re doing the same thing we did in Part I:
+You don’t need any special skills for this. You don’t need to meditate for ten years. You don’t need to believe anything.
 
-> Start from what appears,  
-> notice how it’s already structured,  
-> see how coarse or fine it can show up.
+You just need to be willing to:
 
-Once we have feelings placed in this map, Part III will make more sense:
+- pause,
+- look at what’s here,
+- and describe it a little more carefully than usual.
 
-- what difficult feelings are **pointing at**,
-- and how the system can **reorganise** itself (stabilise / dissolve) in response.
+We’ll start with the simplest thing we can talk about together:
 
-For now, we’ll start with the basics:
+the sense of **“right now, this whole situation I’m in.”**
 
-> how **sensation, emotion, and mood** show up in the field at all.
+In the next chapter, we’ll call that the **field** and poke at it from a few angles.

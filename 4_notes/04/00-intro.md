@@ -1,42 +1,46 @@
-# Part IV – Architecture: Making Sense of It All
+# Part III – Working With Difficulty Inside Experience
 
-If you’ve read this far, you’ve already met most of the pieces:
+So far we’ve mostly mapped the terrain:
 
-- **field** – the whole situation of experience at once,
-- **structure** – figure/background, near/far, inside/outside, centre/periphery,
-- **clumps / compressions** – “things”, projects, problems, self-stories,
-- **me-stack** – body-me, social-me, story-me, moral-me, system-me,
-- **time + story** – before/now/after, and “I am someone who…”,
-- **feelings** – how the system senses fit/mismatch from here,
-- **difficulty + moves** – how the field responds (stabilise / dissolve) when it’s in trouble.
+- Part I: **what appears** – field, structure, clumps, self, time, story.
+- Part II: **how feelings appear** – sensation, emotion, mood, uncertainty, anxiety/shame/anger/numbness, and how they hook into self and story.
 
-We’ve mostly stayed close to **what appears from the inside**, using models only as scaffolding.
+Now we switch emphasis from **description** to **moves**.
 
-Part IV is for the part of you that wants to see **one coherent system picture**:
+Not:
 
-> If I take all these ingredients seriously,  
-> what kind of architecture of experience do they suggest?
+- external techniques to apply _to_ yourself from the outside,
+- or one magic trick to fix everything,
 
-The plan here is:
+but:
 
-1. Lay out **field and compression** as a compact way of talking.
-2. Introduce **awareness-mode** and **world-level** as particular regimes of compression.
-3. Show how **self, mind, and time** fit as compressions in that same frame.
-4. Talk about **differentiation vs duality**, and what nondual clarity looks like in this language.
+> ways the field can **reorganise itself from the inside**  
+> when it finds itself in painful, stuck, or confusing configurations.
 
-This is still not metaphysics.  
-I’m not claiming “this is what reality ultimately is”.
+We’ll look at three layers:
 
-Think of it like:
+1. **What difficult feelings point to**  
+   – what they’re saying about the current organisation of self/world/time/story.
 
-> an architecture document for a running system  
-> that you can check against your own logs (experience).
+2. **Two basic moves** the system can make:
 
-It should:
+   - **stabilising** around a trustworthy “I”,
+   - **dissolving** overly tight clumps and splits.
 
-- make some things that used to be mysterious feel more workable,
-- connect everyday experience, difficult states, and “weird” states without spaghetti,
-- stay compatible with both a scientific and a contemplative angle without fully collapsing into either.
+3. **Weaving** those moves in real life:
+   - how you can feel which move is needed when,
+   - how to avoid the common traps on both sides.
 
-If you’re already saturated, you can skip this part and go to the epilogue.  
-If you’re still nerd-hungry, let’s compress everything into one model and see what breaks.
+Important:
+
+- I’m not giving you commandments.
+- I’m not saying “always stabilise” or “always dissolve”.
+- I’m not saying you should be able to do any of this perfectly.
+
+Think of this part as:
+
+> a library of **possible reorganisations**  
+> that you can experiment with from inside your own field.
+
+You already make both moves, all the time.  
+Part III just makes them more conscious, so you can lean on them when things get intense instead of defaulting to the harshest habits.

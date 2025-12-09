@@ -1,0 +1,5 @@
+- talk about other feelings - love, tenderness, etc
+- physical suffering, pain - what this book can't help with, what extra compressions on top of physical suffering causes us to suffer more unnecessarily
+- talk about protocols - honesty, humility, how inner honesty inevitably becomes outer honesty as the cost become too expensive for the system to split rather than staying to truer how it actually is experienced from inside
+- talk about how to view/see/hold other fields in the appearance (people, animals, etc)
+- talk about how this book came to be, be honest, besides queerness, religion, and other stuff there was handful explorations with LSD to observe the mechanisms and structures clearly, talk to AI, create separate 3 documents describing architecture, how it appears from within, and practical aspect, then feeding it to ai and letting it play within the lens to create the book together

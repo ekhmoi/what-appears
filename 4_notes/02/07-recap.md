@@ -1,173 +1,244 @@
-# Recap: Feelings in What Appears
+# Recap: A Simple Map of What Appears
 
-Part II was about turning up the lights on the affective side of experience.
+We’ve covered a lot in Part I, but it all comes back to something very simple:
 
-Not as something separate from “real life”, but as:
+> Right now, there is a **field** of experience,  
+> and it is already **structured** and **clumped** in specific ways.
 
-> one of the main ways the system senses  
-> how well or badly its current organisation is working from here.
-
-Here’s a compact map of what we’ve seen.
+This chapter is just a quick map of what we’ve seen, so we can carry it forward.
 
 ---
 
-## Feelings as part of the field
+## The field
 
-We started by anchoring:
+We started with the most basic observation:
 
-- **sensation** – local physical textures in the body,
-- **emotion** – more organised waves (body + thoughts + urges + meaning),
-- **mood** – slower background weather,
+- There is **something** present.
+- A whole **situation** shows up at once: sights, sounds, body sensations, thoughts, moods, memories, expectations.
 
-all as **appearances in the field**, not add-ons.
+We called that:
 
-We treated feeling as:
+> **The field** – the whole situation of your experience right now.
 
-- the **felt quality** of how things are going,
-- especially how current groupings and stories fit (or don’t fit) the situation.
-
----
-
-## Valence, pull, and what stands out
-
-We then gave three small handles:
-
-- **valence** – pleasant / unpleasant / neutral feel-tone,
-- **pull** – the sense of being drawn to approach, avoid, fix, hide, freeze, etc.,
-- **what stands out** – which parts of the field get treated as central and important.
-
-Together they helped track:
-
-- when the current organisation feels **workable**:
-  - valence more okay,
-  - pull more coherent,
-  - central issues not overwhelming everything,
-
-vs
-
-- when it feels **not workable**:
-  - valence mostly unpleasant,
-  - pull tangled or frozen,
-  - one or two clumps dominating what stands out.
+Not “the room out there”, not “brain activity in here”.  
+Just how it **appears from here**, as one spread.
 
 ---
 
-## Uncertainty as a texture
+## Structure
 
-We looked at **uncertainty** not just as an idea, but as a felt configuration:
+Inside the field, things aren’t flat.
 
-- many possible compressions of self/world/future,
-- none trusted enough to commit to,
-- especially when identity, belonging, and basic okayness are at stake.
+We saw a few recurring patterns:
 
-In the field, that showed up as:
+- **Figure / background**
 
-- restless body,
-- scanning attention,
-- branching “what if” trees,
-- open loops,
-- a sense of “no safe move”.
+  - some parts are in focus, others fade.
 
-We also saw that:
+- **Near / far**
 
-- some not-knowing is easy (“I don’t know, and that’s fine”),
-- what hurts is _loaded_ uncertainty:
-  - where each branch implies a different “me”,
-  - and no candidate story feels survivable.
+  - some things are spatially close,
+  - some are emotionally or practically “close” (pressing, live),
+  - some are “somewhere in the distance”.
 
----
+- **Centre / periphery**
 
-## Four difficult configurations
+  - there’s usually a fuzzy **“here”** – a vantage point,
+  - other things are arranged relative to here.
 
-We sketched anxiety, shame, anger, and numbness as ways the field can organise itself under strain:
+- **Inside / outside**
+  - some appearances feel “in here” (body, thoughts, emotions),
+  - some feel “out there” (room, world, other people).
 
-- **Anxiety**
+Together, these make up what I called **structure**:
 
-  - many live futures, no clear safe story,
-  - high activation, stuck or conflicting pulls.
+> **Structure** – the relational patterning inside the field:  
+> how bits of experience stand out, cluster, and line up relative to each other.
 
-- **Shame**
+You don’t have to remember the term. The important part is that:
 
-  - clash between self-story and perceived “reading” of you,
-  - social-me and moral-me under attack,
-  - self treated as wrong as a whole.
-
-- **Anger**
-
-  - something in the pattern feels wrong or violating,
-  - energy to redraw boundaries or change behaviour,
-  - can clarify values or over-clump into “me right / them bad”.
-
-- **Numbness**
-  - perceived overload,
-  - turning down detail and contact,
-  - everything flattened into “whatever, it’s all the same”.
-
-We didn’t frame these as diagnoses or sins, but as:
-
-> particular **configurations** of the field  
-> when the current way of holding things doesn’t seem workable.
+- experience has an **organised shape**,
+- and that shape can shift.
 
 ---
 
-## Hooks into self and story
+## Clumping into “things”
 
-Finally, we saw how these states plug into:
+On top of this structure, the field also gives us **things**.
 
-- the **me-stack**: body-me, social-me, story-me, moral-me, system-me,
-- **time and story**: “I am someone who…”, and “what kind of future people like me can have.”
+We looked at:
 
-Roughly:
+- **Room-as-one-blob** vs **room-as-many-objects**.
+- How “phone”, “tree”, “this project”, “that relationship” show up as **units**.
 
-- anxiety proposes stories about being the one who must not fail,
-- shame proposes stories about being fundamentally wrong,
-- anger proposes stories about being the one who must fight or fix,
-- numbness proposes stories about being someone for whom nothing really changes.
+We called this:
 
-Each feeling doesn’t just hurt; it also:
+> **Clumping** – bundling a lot of detail and potential into a simple, usable “thing”.
 
-- suggests an identity,
-- filters memory to support that identity,
-- sketches future trajectories consistent with it.
+In the background is the idea of **compression**:
 
-Seeing that mechanism doesn’t magically make the feelings go away,  
-but it does give you a new stance:
+- high-resolution, messy data →
+- low-resolution, fast-to-use handles.
 
-> “This is a pattern the field is in, and a story it’s trying to install,”  
-> rather than  
-> “This is the unquestionable truth about me and reality.”
+Most of the time you don’t see the details; you just see the clump:
+
+- “my phone”,
+- “this mess”,
+- “my trauma”,
+- “my whole life”.
+
+That’s efficient and necessary, but it also means:
+
+- suffering often happens **at the level of clumps**,
+- when one big “thing” absorbs more and more of the field and becomes _the_ story.
+
+Later, in Part III and Part IV, I’ll lean more heavily on the word **compression**, but it’s pointing to the same phenomenon we met here as **clumping** and **granularity**.
 
 ---
 
-## Ready for Part III
+## Here, body, and proto-“me”
 
-With Part I and II together, we now have:
+We then zoomed in on a particular region of the field:
 
-- a map of **what appears** – world, body, self, time, story,
-- a sense of **how feelings appear** in the same field,
-- and a clearer picture of what’s going on when things feel:
+- the **centre / here**,
+- the **body cluster**,
+- the stack of patterns we call **“me”**.
 
-  - confusing,
-  - threatening,
-  - self-attacking,
-  - or flat and unreachable.
+We noticed:
 
-Part III will take this as starting point and ask:
+- A **fuzzy centre** where perception and action seem to be organised from – a “here”.
+- A fairly stable clump of sensations around that – **this body**.
+- A set of layered self-flavours:
+  - **body-me** (how it feels to inhabit this body),
+  - **social-me** (how you appear to others),
+  - **story-me** (narratives about who you are),
+  - **moral-me** (good/bad, worthy/unworthy),
+  - **system-me** (the one who has to manage it all).
 
-- Given that this is how the field can get into trouble,  
-  **what moves are available from the inside?**
+All of that piles into a **me-clump**:
 
-We’ll look at:
+> “I am this one, here; this body, this centre, with this history.”
 
-- what difficult feelings are pointing at,
-- two broad ways the system can reorganise itself:
-  - **stabilising** around a trustworthy “I”,
-  - **dissolving** overly tight clumps and splits,
+Again, we didn’t decide whether that’s ultimately real or illusory.  
+We just noticed that the field is heavily **organised around it**.
 
-and how to weave those in real situations without turning them into new commandments.
+That organisation will matter a lot once we bring in feelings and difficulty.
 
-For now, if you had to compress Part II into one line, it could be:
+---
 
-> Feelings are not just noise;  
-> they are how experience reports on its own fit or mismatch from here,  
-> and how it tries to steer what kind of “you” shows up next.
+## Time, memory, and story
+
+Finally, we looked at how **time** shows up in the same field:
+
+- **Now** – what’s currently vivid.
+- **Before** – memories and echoes tagged as “earlier”.
+- **After** – imagined futures tagged as “later”.
+
+All of these appear **now**:
+
+- memories as current images, words, feelings,
+- expectations as current scenarios and body-felt threat or possibility.
+
+From this, we get a sense of **flow / continuity**:
+
+- “this morning”,
+- “this week”,
+- “my childhood”,
+- “my life so far”.
+
+And when you combine:
+
+- a sense of **me**, with
+- a sense of **before/now/after**,
+
+you get **story**:
+
+> “I am someone who…”
+
+Those “I am someone who…” sentences are big clumps:
+
+- many moments of experience →
+- one heavy narrative lens.
+
+They don’t just **describe**; they also **filter**:
+
+- they highlight some events as “evidence”,
+- dim others as irrelevant or flukes.
+
+---
+
+## One picture so far
+
+Very schematically, Part I has given us something like this:
+
+- **Field**
+
+  - the whole situation of experience at once.
+
+- **Structure inside the field**
+
+  - figure / background,
+  - near / far,
+  - centre / periphery,
+  - inside / outside.
+
+- **Clumps / compressions**
+
+  - objects, situations, roles, problems, “my life”.
+
+- **Here / body / me**
+
+  - a centre and body-cluster,
+  - layered self-compressions.
+
+- **Time and story**
+  - before / now / after as present appearances,
+  - stories as “I am someone who…” compressions.
+
+We’ve still said nothing about:
+
+- what ultimately exists,
+- how the brain implements this,
+- whether there’s a soul, or pure awareness, or just matter.
+
+We’ve stayed with:
+
+> how things **appear**,  
+> how that appearance is **structured**,  
+> and how it can be **more coarse or more fine**.
+
+---
+
+## Where we go next
+
+Two big pieces are still mostly in the background:
+
+- **Feeling** – how sensations, emotions, moods, and valence show up in the same field.
+- **Difficulty** – what happens when parts of the field feel unsafe, overwhelming, or unsolvable.
+
+In Part II we’ll bring **feelings** into this map:
+
+- how comfort and threat appear,
+- how “pull” and “avoidance” feel,
+- how uncertainty shows up as a texture, not just as an idea.
+
+We’ll keep using the same ingredients:
+
+- field,
+- structure,
+- clumping,
+- here/body/me,
+- time/story,
+
+but now with **affect** lit up.
+
+Once that’s in place, we’ll be able to talk concretely about:
+
+- what anxious, ashamed, angry, numb states are **doing** in the field,
+- and later, how the system can re-organise itself in response.
+
+For now, if you take nothing else from Part I, let it be this:
+
+> Whatever else is true about reality,  
+> you always have this one honest starting point:  
+> **what appears, right now, in your field.**
