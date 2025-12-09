@@ -11,8 +11,6 @@ This chapter is just a quick map of what we’ve seen, so we can carry it forwar
 
 ### The field
 
----
-
 We started with the most basic observation:
 
 - There is **something** present.
@@ -28,8 +26,6 @@ Just how it **appears from here**, as one spread.
 ---
 
 ### Structure
-
----
 
 Inside the field, things aren’t flat.
 
@@ -68,8 +64,6 @@ You don’t have to remember the term. The important part is that:
 
 ### Clumping into “things”
 
----
-
 On top of this structure, the field also gives us **things**.
 
 We looked at:
@@ -98,13 +92,11 @@ That’s efficient and necessary, but it also means:
 - suffering often happens **at the level of clumps**,
 - when one big “thing” absorbs more and more of the field and becomes _the_ story.
 
-Later, in Part III and Part IV, I’ll lean more heavily on the word **compression**, but it’s pointing to the same phenomenon we met here as **clumping** and **granularity**.
+Later, in Part IV, I’ll lean more heavily on the word **compression**, but it’s pointing to the same phenomenon we met here as **clumping** and **granularity**.
 
 ---
 
 ### Here, body, and proto-“me”
-
----
 
 We then zoomed in on a particular region of the field:
 
@@ -136,9 +128,7 @@ That organisation will matter a lot once we bring in feelings and difficulty.
 
 ### Time, memory, and story
 
----
-
-Finally, we looked at how **time** shows up in the same field:
+We then looked at how **time** shows up in the same field:
 
 - **Now** – what’s currently vivid.
 - **Before** – memories and echoes tagged as “earlier”.
@@ -177,9 +167,45 @@ They don’t just **describe**; they also **filter**:
 
 ---
 
-### One picture so far
+### Others in what appears
+
+We also noticed that you’re not alone in this field.
+
+Other people show up as:
+
+- bodies, faces, voices, messages, traces,
+- and as strong intuitions of “someone there” – another inside, another “me”.
+
+Sometimes animals do too:
+
+- as “things” in the environment,
+- as symbols,
+- or as specific creatures you relate to as having some kind of centre.
+
+From your side:
+
+- others appear as **patterns in the field**,
+- and your system often treats them **as if** they have their own field:
+  - their own worries,
+  - their own sense of self,
+  - their own way of suffering and caring.
+
+Their presence reshapes structure:
+
+- what becomes figure / background (who you track in a room),
+- what feels near / far (who feels emotionally close or distant),
+- what “here” means (not just physically here, but socially here).
+
+From the very beginning then:
+
+> what appears is not a private theatre.  
+> It is already a **social field**.
+
+Later, when we talk about shame, love, anger, and repair, this will be crucial.
 
 ---
+
+### One picture so far
 
 Very schematically, Part I has given us something like this:
 
@@ -204,8 +230,15 @@ Very schematically, Part I has given us something like this:
   - layered self-compressions.
 
 - **Time and story**
+
   - before / now / after as present appearances,
   - stories as “I am someone who…” compressions.
+
+- **Others**
+
+  - other people and animals as:
+    - patterns in your field,
+    - plus an intuition of other centres with their own inside.
 
 We’ve still said nothing about:
 
@@ -223,18 +256,17 @@ We’ve stayed with:
 
 ### Where we go next
 
----
-
 Two big pieces are still mostly in the background:
 
 - **Feeling** – how sensations, emotions, moods, and valence show up in the same field.
-- **Difficulty** – what happens when parts of the field feel unsafe, overwhelming, or unsolvable.
+- **Difficulty** – what happens when parts of the field feel unsafe, overwhelming, or unsolvable (especially around self and others).
 
 In Part II we’ll bring **feelings** into this map:
 
 - how comfort and threat appear,
 - how “pull” and “avoidance” feel,
-- how uncertainty shows up as a texture, not just as an idea.
+- how uncertainty shows up as a texture, not just as an idea,
+- how all of that interacts with self, story, and other people.
 
 We’ll keep using the same ingredients:
 
@@ -243,6 +275,7 @@ We’ll keep using the same ingredients:
 - clumping,
 - here/body/me,
 - time/story,
+- others,
 
 but now with **affect** lit up.
 

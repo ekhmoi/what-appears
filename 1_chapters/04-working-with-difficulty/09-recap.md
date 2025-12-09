@@ -13,8 +13,6 @@ Here’s the compressed version.
 
 ### 1. Difficult feelings as status messages
 
----
-
 Instead of treating anxiety, shame, anger, numbness, etc. as:
 
 - glitches,
@@ -43,8 +41,6 @@ The key question became:
 
 ### 2. Move One – stabilise around a trustworthy “I”
 
----
-
 First big move:
 
 > **Stabilise** – tighten just enough around a sane, honest “I”  
@@ -67,6 +63,7 @@ In practice, that looked like:
     - what you will and won’t tolerate.
 
 - **Story**
+
   - shifting from cruel identities (“I am trash / broken / a monster”)
   - to more truthful, workable ones:
     - “I’m someone who did X, cares about it, and is trying to respond.”
@@ -81,8 +78,6 @@ When stabilising is going well, the field feels:
 ---
 
 ### 3. Move Two – letting the situation breathe (dissolve)
-
----
 
 Second big move:
 
@@ -101,6 +96,7 @@ In practice, that meant:
   - not just “about me being fundamentally defective.”
 
 - **Softening inside/outside**
+
   - noticing how “world”, “others”, and “me” appear as patterns in the field,
   - relaxing some of the sharpest edges where they hurt more than they help.
 
@@ -121,8 +117,6 @@ When dissolving is going well, the field feels:
 
 ### 4. Weaving the two moves
 
----
-
 We saw that:
 
 - **all stabilise, no dissolve** → brittle identities, constant collision with reality.
@@ -137,6 +131,7 @@ So in practice you get **sequences**, like:
   - Later: question harsh stories, widen the frame.
 
 - **Dissolve → then stabilise**
+
   - when you’re locked in one rigid, self-attacking narrative.
   - First: loosen “this moment defines my whole life”.
   - Then: stabilise in a kinder, more accurate self-story and act from there.
@@ -149,8 +144,6 @@ We also noted a rough rule of thumb:
 ---
 
 ### 5. Concrete mini-walkthroughs
-
----
 
 We anchored this with simple examples:
 
@@ -172,11 +165,62 @@ The aim was not to produce scripts, but to:
 
 ---
 
-### 6. Staying oriented when things get intense
+### 6. Protocols as ego-generators
+
+We then named some **protocols** — simple rules that shape how the story of “me” is allowed to be written:
+
+- **Honesty** – “whatever is actually appearing in this field is allowed to be noticed.”
+- **Humility** – “this is a compression, not the whole field; I might be missing a lot.”
+- **Alignment** – “if I keep seeing something clearly, eventually my outer life has to start reflecting that.”
+
+Here, “ego” isn’t a demon or a metaphysical object. It’s:
+
+> the current narrative compression of  
+> “who I am / what my life is / what kind of agent I am.”
+
+Different protocols generate very different egos from the same raw field:
+
+- “protect my image at any cost” → defensive, blaming, always-right ego.
+- “never show weakness” → hard, isolated, brittle ego.
+- “be honest with myself first” → more awkward, but more flexible and real ego.
+
+These protocols act as **guardrails** so that:
+
+- stabilise / dissolve don’t turn into clever self-deception,
+- your “me-story” keeps updating in the direction of more reality, not less.
 
 ---
 
-Finally, we added some guardrails:
+### 7. Other fields: other people, other centres
+
+We also zoomed out from just your field and remembered:
+
+- there are other centres of experience — other people, animals, other “fields”.
+
+From your side, they appear as:
+
+- bodies, faces, voices, behaviours, stories.
+
+You never see their field directly, but you can:
+
+- act as if they are centres too, with their own self/world/time architecture,
+- see their difficult states (anxiety, shame, anger, numbness) as configurations in *their* field,
+- hold both:
+  - care for your own field,
+  - and respect and boundaries in relation to other fields.
+
+That shifts relationship from:
+
+- “NPCs in my world” →
+- “other centres in the same larger happening.”
+
+It changes how stabilising and dissolving show up in conflict, love, boundaries, and repair.
+
+---
+
+### 8. Staying oriented when things get intense
+
+Finally, we added some guardrails for the whole project:
 
 - you’re allowed to be **ordinary**; no obligation to be profound, enlightened, or special,
 - don’t use this lens to **gaslight yourself** (“it’s all just appearances, so my pain isn’t real”),
@@ -193,4 +237,7 @@ If you had to compress Part III into one sentence:
 > When the field is in pain, you can relate to that pain as  
 > a signal about the current organisation —  
 > and you have at least two deep ways to respond from the inside:  
-> **stabilise** what needs more form, and **dissolve** what’s too tight.
+> **stabilise** what needs more form and **dissolve** what’s too tight,  
+> guided by simple protocols about how honestly and humbly  
+> you’re willing to let the story of “me” be written,  
+> in the middle of other centres doing the same.

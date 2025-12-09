@@ -26,10 +26,12 @@ We’ll look at three layers:
 
    - **stabilising** around a trustworthy “I”,
    - **dissolving** overly tight clumps and splits.
+   
+3. **Protocols and examples**  
+   - simple rules like honesty and humility that shape how the story of “me” is generated,  
+   - concrete scenarios that show how stabilising and dissolving can weave together in real life,  
+   - including how all of this plays out **with other humans**, not just inside your own head.
 
-3. **Weaving** those moves in real life:
-   - how you can feel which move is needed when,
-   - how to avoid the common traps on both sides.
 
 Important:
 
