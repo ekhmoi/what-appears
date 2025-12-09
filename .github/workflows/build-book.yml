@@ -2,12 +2,12 @@ name: Build book PDF
 
 on:
   push:
-    branches: [ main ]               # change branch if needed
+    branches: [main] # change branch if needed
     paths:
-      - "1_chapters/**"
-      - "2_wrappers/**"
-      - "book-order.txt"
+      - "_chapters/**"
+      - "wrappers/**"
       - ".github/workflows/build-book.yml"
+      - ".github/workflows/generate_book_order.py"
 
 jobs:
   build-book:
@@ -21,6 +21,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Generate book-order.txt
+        run: |
+          python3 .github/workflows/generate_book_order.py
+
       - name: Collect files from book-order.txt
         id: files_list
         run: |
@@ -32,19 +36,6 @@ jobs:
           )
           echo "files=${FILES}" >> "$GITHUB_OUTPUT"
 
-      # - name: Build book.pdf with Pandoc
-      #   # Official pandoc+LaTeX image; includes what you need for PDF output :contentReference[oaicite:0]{index=0}
-      #   uses: docker://pandoc/latex:latest
-      #   with:
-      #     args: >-
-      #       --toc
-      #       --number-sections
-      #       --top-level-division=part
-      #       --pdf-engine=xelatex
-      #       --resource-path=.:1-chapters:2-wrappers
-      #       -o book.pdf
-      #       ${{ steps.files_list.outputs.files }}
-
       - name: Build book.pdf with Pandoc
         uses: docker://pandoc/latex:latest
         with:
@@ -54,7 +45,7 @@ jobs:
             --number-sections
             --top-level-division=part
             --pdf-engine=xelatex
-            --resource-path=.:1_chapters:2_wrappers
+            --resource-path=.:_chapters:wrappers
             -V documentclass=report
             -V classoption=oneside
             -V classoption=openany
@@ -62,9 +53,7 @@ jobs:
             -o book.pdf
             ${{ steps.files_list.outputs.files }}
 
-
       - name: Commit updated book.pdf
-        # Auto-commit changed files back to your repo :contentReference[oaicite:1]{index=1}
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update generated book.pdf"
