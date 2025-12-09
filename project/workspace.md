@@ -11,7 +11,7 @@ There are two main layers:
 
 ## Folder structure
 
-### `0-project/` – what am I making?
+### `project/` – what am I making?
 
 Meta level.
 
@@ -23,7 +23,7 @@ Nothing here is meant for readers.
 
 ---
 
-### `1-chapters/` – the book itself in flux
+### `_chapters/` – the book itself in flux
 
 Reader-facing manuscript, in order.
 
@@ -37,7 +37,7 @@ If someone asks to “see the work”, they essentially see content from here.
 
 ---
 
-### `2-wrappers/` – intros around the chapters
+### `wrappers/` – intros around the chapters
 
 Things that *point into* the chapters, with different framings:
 
@@ -50,7 +50,7 @@ These are optional, but they help explain the same core material to different au
 
 ---
 
-### `3-snippets/` – reusable pieces
+### `snippets/` – reusable pieces
 
 A stash of small, reusable building blocks:
 
@@ -63,14 +63,14 @@ When something in notes or raw feels like “this is a good example / line”, c
 
 ---
 
-### `4-notes/` – per-chapter work
+### `notes/` – per-chapter work
 
 Workspace for each chapter.
 
 Suggested layout:
 
-- `4-notes/01-part-…/01-chapter-….notes.md` – notes for that specific chapter  
-- `4-notes/cross-cutting-notes.md` – ideas that touch multiple chapters
+- `notes/01-part-…/01-chapter-….notes.md` – notes for that specific chapter  
+- `notes/cross-cutting-notes.md` – ideas that touch multiple chapters
 
 Use these files for:
 
@@ -83,7 +83,7 @@ These are only for you; readers never see them directly.
 
 ---
 
-### `5-raw/` – raw stream
+### `raw/` – raw stream
 
 Full goblin-brain. Nothing has to make sense.
 
@@ -98,7 +98,7 @@ Later, you can mine good bits out into `4-notes/` or `3-snippets/`.
 
 ---
 
-### `6-archive/` – safe graveyard
+### `archive/` – safe graveyard
 
 Old but maybe-useful stuff:
 
