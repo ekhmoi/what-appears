@@ -19,8 +19,6 @@ In real life they’re tangled. We’re just teasing them apart a bit so you can
 
 ### Sensation: the raw-ish physical feel
 
----
-
 First, zoom into **body sensation**.
 
 Right now you might notice:
@@ -55,8 +53,6 @@ We’ll use this later when we talk about working with difficulty.
 ---
 
 ### Emotion: organised waves
-
----
 
 Now think of something that recently made you:
 
@@ -116,8 +112,6 @@ The important point is:
 
 ### Mood: background weather
 
----
-
 Now tune into the **overall tone** of your day so far.
 
 If you’re honest, it’s probably something like:
@@ -158,8 +152,6 @@ You might not notice a mood until something bumps against it:
 
 ### All three at once
 
----
-
 In real life, sensation, emotion, and mood are usually layered.
 
 For example:
@@ -189,8 +181,6 @@ You don’t have to force clean boundaries, but even a rough separation can stop
 ---
 
 ### Feelings as part of “what appears”
-
----
 
 In the original “What Appears” lens, feeling was described as:
 
@@ -234,8 +224,6 @@ For now:
 ---
 
 ### A light check-in
-
----
 
 If you want to ground this right now, pause and see if you can name:
 

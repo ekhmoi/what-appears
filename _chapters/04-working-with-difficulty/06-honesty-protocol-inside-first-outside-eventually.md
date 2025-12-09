@@ -20,8 +20,6 @@ but in this lens they’re mostly:
 
 ### Ego in this lens (very boring version)
 
----
-
 We’re not using “ego” in the mystical / Freudian / demon-in-the-head sense.
 
 Here, “ego” is just:
@@ -70,8 +68,6 @@ And it’s not neutral. It’s produced under **protocols**.
 
 ### Protocols as ego-generators
 
----
-
 Different protocols generate different egos from the _same_ raw field.
 
 Examples:
@@ -111,8 +107,6 @@ That’s where **honesty**, **humility**, and **alignment** come in.
 ---
 
 ### Inner honesty: letting the field report as it is
-
----
 
 Inner honesty is the protocol that says:
 
@@ -157,8 +151,6 @@ Often, once something is acknowledged internally, the cost of maintaining the sp
 
 ### Humility: remembering it’s still a compression
 
----
-
 Humility here isn’t about grovelling.
 
 It’s the protocol that keeps whispering:
@@ -191,8 +183,6 @@ When that shows up (and it will), humility is the protocol that says:
 ---
 
 ### Alignment: letting seeing change how you live
-
----
 
 Alignment is the protocol that says:
 
@@ -227,8 +217,6 @@ Not perfection. Just less splitting.
 
 ### How these protocols shape ego over time
 
----
-
 Put together:
 
 - **Honesty**
@@ -258,8 +246,6 @@ You’re just less held hostage by the harshest, fakest ones.
 ---
 
 ### Protocols as guardrails, not new commandments
-
----
 
 Important:
 

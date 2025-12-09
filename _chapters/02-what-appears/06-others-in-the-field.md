@@ -31,8 +31,6 @@ Here we’re still just in:
 
 ### Others as patterns in the field
 
----
-
 From your side, other people appear as:
 
 - bodies: shapes, movements, proximity, touch,
@@ -59,8 +57,6 @@ Already you can see:
 ---
 
 ### The sense of “another centre”
-
----
 
 There’s also something stranger and more basic:
 
@@ -101,8 +97,6 @@ We’ll lean on that “as if” more in Part III.
 ---
 
 ### Social structure in the field
-
----
 
 Once other people show up, the structure of the field changes.
 
@@ -145,8 +139,6 @@ Very different field if you’re alone vs with your parents vs with a lover vs w
 
 ### Other animals
 
----
-
 Non-human animals can also appear as:
 
 - **things** (a dog-shaped piece of environment),
@@ -173,8 +165,6 @@ It’s simply to notice:
 ---
 
 ### Self and others: basic pattern
-
----
 
 As soon as there is:
 
@@ -203,8 +193,6 @@ For now, the important thing is just:
 ---
 
 ### Why this matters for later parts
-
----
 
 We’ll come back to others in:
 

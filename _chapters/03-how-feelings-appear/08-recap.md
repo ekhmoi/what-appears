@@ -1,6 +1,6 @@
-## Part II Recap: Feelings in What Appears
+## Part III Recap: Feelings in What Appears
 
-Part II was about turning up the lights on the affective side of experience.
+Part III was about turning up the lights on the affective side of experience.
 
 Not as something separate from “real life”, but as:
 
@@ -213,7 +213,7 @@ but it does give you a new stance:
 
 ### Ready for the next part
 
-With Part I and II together, we now have:
+With Part II and III together, we now have:
 
 - a map of **what appears** – world, body, self, time, story, others,
 - a sense of **how feelings appear** in the same field,

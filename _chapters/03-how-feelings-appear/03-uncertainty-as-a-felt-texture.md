@@ -21,8 +21,6 @@ We’ll look at:
 
 ### Many possible compressions, none landed
 
----
-
 From the “architecture” side of this lens:
 
 - the field is always in the process of **compressing**:
@@ -57,8 +55,6 @@ In experience, this shows up as:
 ---
 
 ### How uncertainty feels in the field
-
----
 
 Let’s make this concrete.
 
@@ -103,8 +99,6 @@ None of that is just “in your head”. It’s a **configuration of the whole f
 
 ### Uncertainty vs simple “not knowing”
 
----
-
 It’s useful to distinguish at least two flavours:
 
 1. **Simple “don’t know, don’t care much”**
@@ -142,8 +136,6 @@ In this part of the book, when I say **uncertainty**, I mostly mean the second k
 
 ### Uncertainty and the “me” stack
 
----
-
 From Part I, recall some layers of “me”:
 
 - **social-me** – how you appear to others,
@@ -175,8 +167,6 @@ That’s why uncertainty can feel so personal and so loaded:
 
 ### Open loops and the sense of “no safe move”
 
----
-
 Another way uncertainty feels is as **open loops**:
 
 - questions that don’t settle,
@@ -203,8 +193,6 @@ The felt sense is something like:
 ---
 
 ### When uncertainty is okay
-
----
 
 Not all uncertainty hurts.
 
@@ -240,8 +228,6 @@ What hurts is usually:
 ---
 
 ### A light exploration
-
----
 
 If you want to check some of this in your own field:
 

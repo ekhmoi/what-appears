@@ -27,8 +27,6 @@ We’re staying close to appearance, not doing physics or neuroscience.
 
 ### Before / now / after in the field
 
----
-
 Right now, see if you can notice three different flavours:
 
 1. **Now**
@@ -66,8 +64,6 @@ It’s this pattern of:
 
 ### Memory as something that appears now
 
----
-
 Pick a simple recent event: what you had for your last meal, or where you woke up this morning.
 
 Let that memory come up for a moment.
@@ -100,8 +96,6 @@ For now, just notice the basic fact.
 ---
 
 ### Expectation and imagined futures
-
----
 
 Do the same with the future.
 
@@ -137,8 +131,6 @@ From the perspective of appearance:
 
 ### Flow and continuity
 
----
-
 If you track just a short slice — say the last five minutes — there’s also a sense of **flow**:
 
 - You weren’t always in this exact state.
@@ -171,8 +163,6 @@ Each of those is a big clump of many moments, represented now by a few compresse
 ---
 
 ### From time to story: “I am someone who…”
-
----
 
 Take the sense of:
 
@@ -221,8 +211,6 @@ That story is a **big compression**:
 
 ### Stories as lenses, not just records
 
----
-
 An important point:
 
 Stories don’t just **describe** life. They also **filter and select** it.
@@ -249,8 +237,6 @@ We’ll dig into this more when we talk about difficult feelings and uncertainty
 ---
 
 ### A tiny story-inspection
-
----
 
 If you feel up for it, try this very lightly.
 
@@ -282,8 +268,6 @@ We’re just noticing that:
 ---
 
 ### Where we are so far
-
----
 
 Let’s recap what Part I has given us up to this point:
 

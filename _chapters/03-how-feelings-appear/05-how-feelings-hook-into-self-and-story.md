@@ -28,8 +28,6 @@ Not as abstract theory, but as “oh, this is how my field rearranges itself whe
 
 ### Feelings as “votes” on who you are
 
----
-
 When a strong feeling hits, it doesn’t just say:
 
 - “this situation is good / bad.”
@@ -65,8 +63,6 @@ It’s also a **candidate update to your identity**.
 ---
 
 ### How anxiety hooks into self and time
-
----
 
 From earlier:
 
@@ -106,8 +102,6 @@ It’s:
 ---
 
 ### How shame hooks into social-me and moral-me
-
----
 
 We glossed shame as:
 
@@ -151,8 +145,6 @@ In that configuration, it’s easy to miss that:
 ---
 
 ### How anger hooks into boundaries and agency
-
----
 
 We read anger as:
 
@@ -200,8 +192,6 @@ Either way, it’s reorganising:
 ---
 
 ### How numbness hooks into story and horizon
-
----
 
 We framed numbness as:
 
@@ -251,8 +241,6 @@ Which in turn reinforces the numb identity:
 
 ### Feelings as story-selectors
 
----
-
 From a certain angle, strong feelings are:
 
 > **story-selectors** – they bias which self/world/future compressions get activated.
@@ -293,8 +281,6 @@ They are **compressed narratives** that:
 
 ### A small mapping exercise
 
----
-
 If you want to see this live, pick a recent moment where one of these states was strong.
 
 - anxiety,
@@ -331,8 +317,6 @@ We’re just making its shape visible.
 ---
 
 ### Why this matters for what comes next
-
----
 
 Part III will be about **working with difficulty**:
 

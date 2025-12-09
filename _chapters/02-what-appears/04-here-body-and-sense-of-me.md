@@ -17,8 +17,6 @@ We’re just going to look at how **“me-ness” appears** in the field.
 
 ### The felt centre: “here”
 
----
-
 Most of the time, there’s some sense of a **centre** in the field.
 
 Right now, check for yourself:
@@ -42,8 +40,6 @@ there is a _vantage point-feel_.
 ---
 
 ### The body as the local cluster
-
----
 
 Around this “here”, there’s a fairly stable clump: **the body**.
 
@@ -80,8 +76,6 @@ Again, this is describing how it _appears_, not explaining biology. We’re stay
 
 ### Inside the body vs outside the body
 
----
-
 Earlier we talked about **inside / outside** in general.
 
 The body gives that split a concrete anchor:
@@ -110,8 +104,6 @@ For now, just notice how strongly “inside-body” maps to “in here / mine”
 ---
 
 ### A first pass at “me”
-
----
 
 Let’s stack what we have:
 
@@ -144,8 +136,6 @@ We can just notice:
 ---
 
 ### The “me” clump isn’t one thing
-
----
 
 If you pay closer attention, “me” is not a single object. It’s more like a **stack**.
 
@@ -189,8 +179,6 @@ That **continuity-feel** is important. We’ll touch it more when we bring in ti
 
 ### A quick scan of your own “me-stack”
 
----
-
 You don’t have to go deep; just take a snapshot.
 
 Right now:
@@ -207,8 +195,6 @@ Just see how many layers are packed into the simple word **“I”**.
 ---
 
 ### Why this matters
-
----
 
 We’re doing all this groundwork because:
 

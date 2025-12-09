@@ -8,8 +8,6 @@ This chapter is just a quick “coordinates in concept-space” so you don’t h
 
 ### Not a new religion
 
----
-
 This is _not_:
 
 - a revelation from beyond,
@@ -38,8 +36,6 @@ If the answer is “no”, you’re not wrong. The lens just isn’t for you rig
 
 ### Not a complete scientific theory
 
----
-
 This is also _not_:
 
 - a neuroscientific model,
@@ -61,8 +57,6 @@ If you want a full account of brains, neurons, generative models, etc., you shou
 ---
 
 ### Not a school of therapy (but not anti-therapy)
-
----
 
 This is _not_ a replacement for:
 
@@ -93,8 +87,6 @@ You’re allowed professional help. You’re allowed other humans.
 
 ### Overlaps with contemplative and nondual traditions
 
----
-
 You might have noticed resonances with:
 
 - mindfulness / vipassanā / insight practice,
@@ -124,8 +116,6 @@ I’m not claiming equivalence or “secret true meaning”. Just saying: there�
 
 ### Overlaps with rationalist / engineering minds
 
----
-
 You might also notice the fingerprints of:
 
 - debugging and refactoring,
@@ -154,8 +144,6 @@ If you _don’t_ come from that world, you can mostly ignore this and just treat
 ---
 
 ### Overlaps with queerness and leaving rigid frames
-
----
 
 There’s also a quieter overlap with:
 

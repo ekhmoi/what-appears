@@ -26,8 +26,6 @@ All of these are ways the field **clumps** detail into usable chunks.
 
 ### Room as one blob vs room as many things
 
----
-
 Try this with the room you’re in (or the space around you).
 
 First pass:
@@ -55,8 +53,6 @@ What changed was how the field is **organised**.
 ---
 
 ### Clumping: from detail to a “thing”
-
----
 
 A “thing” is not a raw sense impression. It’s a **clump** of many small bits:
 
@@ -89,8 +85,6 @@ Later I’ll formalise it more and call it **compression**, but for now the main
 
 ### Clumping isn’t just for physical objects
 
----
-
 The same kind of thing happens for more abstract “things”:
 
 - **“This relationship”**  
@@ -114,8 +108,6 @@ But it’s useful to see that:
 ---
 
 ### Why clumping is useful
-
----
 
 If you had to consciously track:
 
@@ -141,8 +133,6 @@ But without them, you’d drown.
 ---
 
 ### When clumping starts to hurt
-
----
 
 The same mechanism that keeps you functional can also make you stuck.
 
@@ -178,8 +168,6 @@ We’ll come back to this in Part III when we talk about working with difficult 
 
 ### A small experiment: de-clumping just a bit
 
----
-
 Pick one “thing” that’s mildly uncomfortable but not your deepest wound. Maybe:
 
 - “this project I’m avoiding”,
@@ -207,8 +195,6 @@ You don’t have to “solve” anything. Just notice how the big clump is actua
 ---
 
 ### Where we’re heading
-
----
 
 So far, we have:
 

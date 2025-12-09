@@ -19,8 +19,6 @@ Here we’ll look at this move more deliberately, in field terms.
 
 ### Why stabilising helps
 
----
-
 When the field is in:
 
 - high uncertainty,
@@ -53,8 +51,6 @@ It’s a way of saying:
 ---
 
 ### Stabilising at different layers of “me”
-
----
 
 You can stabilise at different levels of the me-stack.
 
@@ -139,8 +135,6 @@ They’re just less cruel ones that give you room to act.
 
 ### How stabilising feels
 
----
-
 When stabilisation is working, even a little, you might notice:
 
 - more sense of **“here-ness”**,
@@ -167,8 +161,6 @@ That’s often enough for:
 ---
 
 ### A simple stabilising script
-
----
 
 This is not a ritual. It’s just a rough outline of how this move can look.
 
@@ -209,8 +201,6 @@ The point is: the field reorients around a slightly clearer **“I, here, going 
 ---
 
 ### When stabilising goes wrong
-
----
 
 Stabilising can also misfire. Common ways:
 

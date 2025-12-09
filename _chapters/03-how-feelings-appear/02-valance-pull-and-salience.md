@@ -25,8 +25,6 @@ These aren’t new metaphysical objects. They’re just names for aspects of fee
 
 ### Valence: how it basically feels
 
----
-
 Right now, if you scan your experience, some parts are:
 
 - **pleasant**
@@ -63,8 +61,6 @@ That’s not a law, just a rough phenomenological read.
 ---
 
 ### Pull: what this seems to want me to do
-
----
 
 Feeling is rarely just a colour; it comes with **tendencies**.
 
@@ -121,8 +117,6 @@ Pull is being yanked in different directions at once, with no stable pattern the
 
 ### What stands out: feeling and structure
 
----
-
 The field is already structured as figure/background, near/far, inside/outside.
 
 On top of that, feeling adds another layer of **priority**.
@@ -178,8 +172,6 @@ Again, not a moral failure — just a description of a certain configuration.
 
 ### How this all ties back to fit / mismatch
 
----
-
 Putting these threads together:
 
 - **Valence** gives a quick read on how the current organisation feels from here:
@@ -223,8 +215,6 @@ That’s the territory where anxiety, shame, anger, numbness, etc. tend to show 
 ---
 
 ### A small in-field check
-
----
 
 If you want to test this live, pause for a moment and:
 

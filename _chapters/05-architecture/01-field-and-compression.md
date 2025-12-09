@@ -11,8 +11,6 @@ We’ve been using both, but now we’ll make them explicit as the basic archite
 
 ### Field: the live, unified “all of this”
 
----
-
 From earlier parts:
 
 > The **field** is the whole situation of your experience, right now:  
@@ -34,8 +32,6 @@ You can plug any metaphysics you like under it (brains, consciousness, God, what
 ---
 
 ### Compression: how the field makes “things”
-
----
 
 If the field is raw bandwidth, **compression** is how it:
 
@@ -78,8 +74,6 @@ A finite system _has_ to do it to function at all.
 
 ### One field, many compressions
 
----
-
 The crucial move is:
 
 > same field, different compressions.
@@ -116,8 +110,6 @@ The architecture picture is:
 
 ### Compression levels: from fine to coarse
 
----
-
 You can loosely order compressions by **granularity**:
 
 - **Fine**
@@ -152,8 +144,6 @@ In this language, a lot of suffering is:
 ---
 
 ### Architecture as “what runs on what”
-
----
 
 We can now say:
 

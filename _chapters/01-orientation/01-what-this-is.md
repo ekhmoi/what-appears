@@ -4,8 +4,6 @@ Before we go further, I want to set some boundaries around what this project is.
 
 ### What this is not
 
----
-
 This is **not**:
 
 - **A religion.**  
@@ -23,8 +21,6 @@ This is **not**:
 If you’re in acute crisis, suicidal, or traumatised, you deserve real humans and solid support. A book — especially this one — is not emergency equipment.
 
 ### What this _is_
-
----
 
 You can think of this as:
 
@@ -54,8 +50,6 @@ None of these are sacred words. They’re just handles I’ve found useful.
 The point isn’t that you end up believing **“there is a field and compressions”** as dogma. The point is that **looking at experience in this way** might make some of your tangles more understandable and a bit less punishing.
 
 ### Why I’m leaving this trace
-
----
 
 I’m mostly writing for people whose lives have been split across big fault lines:
 

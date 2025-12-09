@@ -19,8 +19,6 @@ We’re not adding anything new. We’re just noticing patterns that were alread
 
 ### Figure and background
 
----
-
 Pick something you can look at right now. Maybe the screen, a mug, a mark on the wall.
 
 For a moment, let that be the **figure**:
@@ -46,8 +44,6 @@ Nothing mystical here. It’s the same ordinary thing that lets you read text on
 
 ### Near and far (without rulers)
 
----
-
 Now, notice how some things in the field feel **near** and some feel **far**.
 
 This isn’t just about physical distance.
@@ -70,8 +66,6 @@ If you like visual metaphors: it’s like some parts of the field are rendered i
 ---
 
 ### Centre and periphery
-
----
 
 Most of the time there is a sense of **“here”** — a centre in the field.
 
@@ -96,8 +90,6 @@ We’ll come back to this when we talk about body and self. For now, just notice
 ---
 
 ### Inside and outside (as they appear)
-
----
 
 Another bit of structure that shows up very early in life:
 
@@ -130,8 +122,6 @@ Later, when we talk about nondual clarity, we’ll look at how optional this spl
 
 ### A small pass over your own field
 
----
-
 A quick exercise. Take half a minute if you can.
 
 1. Look around and pick one visual object as **figure**.
@@ -157,8 +147,6 @@ You don’t need perfect answers; this isn’t a test. The point is just to **ta
 ---
 
 ### Structure as relational patterning
-
----
 
 We’ve touched a few recurring patterns:
 

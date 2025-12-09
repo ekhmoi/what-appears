@@ -27,8 +27,6 @@ You don’t have to see it as a mystical thing. It’s the most ordinary thing i
 
 ### Zooming out a bit
 
----
-
 When you pay attention like this, you might notice a few things:
 
 - There isn’t just one narrow “object” – there’s a **spread** of impressions.
@@ -50,8 +48,6 @@ For now, the main point is: you can relate to your experience as **one field**, 
 
 ### A quick check: your field is not my field
 
----
-
 As you read this, notice:
 
 - Your visual scene is not mine.
@@ -72,8 +68,6 @@ All of that is happening **in** this personal field.
 ---
 
 ### No special state required
-
----
 
 You might have a voice that says:
 
@@ -100,8 +94,6 @@ I’ll keep saying “field” for short.
 
 ### A tiny exercise
 
----
-
 Let’s make this less abstract.
 
 Take 30 seconds. (Actually do it if you can.)
@@ -127,8 +119,6 @@ That sentence is not the field itself. It’s a crude summary. But even doing th
 ---
 
 ### Why this matters later
-
----
 
 You might reasonably ask: why bother with this? Why not jump straight to “self” or “trauma” or “nonduality”?
 

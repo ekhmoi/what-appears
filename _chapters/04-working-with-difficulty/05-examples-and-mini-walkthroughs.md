@@ -14,12 +14,10 @@ They’re just examples of:
 
 ### 1. Anxiety about a choice
 
----
-
 **Situation:**  
 You’ve been offered a job in another city. If you take it, you leave your current life. If you don’t, you’re afraid you’ll stay stuck.
 
-### How it appears
+#### How it appears
 
 - Body: restlessness, tight chest, pacing.
 - Attention: flips between pros/cons lists, outcome simulations.
@@ -30,7 +28,7 @@ You can name it:
 - “This feels like anxiety + loaded uncertainty.”
 - “The bind: if I go, I might blow up my life; if I stay, I might waste it.”
 
-### What it’s pointing at
+#### What it’s pointing at
 
 - self ↔ future: “who will I be in each branch?”
 - story-me: “am I someone who takes risks or someone who stays loyal?”
@@ -38,7 +36,7 @@ You can name it:
 
 No wonder the field can’t find a safe move.
 
-### Move One – stabilise
+#### Move One – stabilise
 
 - Body:
   - sit down, feel weight, look around the actual room.
@@ -58,7 +56,7 @@ The field gets:
 - a clearer sense of “I here, caring about X and Y”,
 - some containment for the decision.
 
-### Move Two – dissolve (a bit later)
+#### Move Two – dissolve (a bit later)
 
 - De-clump:
   - instead of “my whole life”, see:
@@ -84,12 +82,10 @@ The choice may still be hard, but it’s less like walking a tightrope over the 
 
 ### 2. Shame after saying something harsh
 
----
-
 **Situation:**  
 You snapped at a friend and said something that felt too cruel. Now you’re replaying it.
 
-### How it appears
+#### How it appears
 
 - Body: heaviness, heat in the face, urge to curl in.
 - Attention: looping the moment, zooming in on their expression.
@@ -100,7 +96,7 @@ You can name it:
 - “Shame, focused on social-me and moral-me.”
 - “The story: I am fundamentally bad and now exposed.”
 
-### What it’s pointing at
+#### What it’s pointing at
 
 - your value of not wanting to hurt people,
 - a real mismatch between how you want to show up and how you did,
@@ -109,7 +105,7 @@ You can name it:
 So shame is at least partly tracking:  
 “I crossed my own line here.”
 
-### Move One – stabilise
+#### Move One – stabilise
 
 - Body:
   - feel the ground, lengthen exhale a bit, put a hand somewhere that hurts.
@@ -128,7 +124,7 @@ Now the field includes:
 - a caring “I” who wants to repair,
 - not just a condemned sinner.
 
-### Move Two – dissolve
+#### Move Two – dissolve
 
 - De-clump:
   - separate:
@@ -154,12 +150,10 @@ Shame becomes:
 
 ### 3. Numbness in a long rough patch
 
----
-
 **Situation:**  
 Life has been hard for a while. You notice you don’t feel much about things that used to matter.
 
-### How it appears
+#### How it appears
 
 - Body: dullness, tiredness, low energy.
 - Attention: sliding off meaningful topics, defaulting to distraction.
@@ -170,13 +164,13 @@ You can name it:
 - “Numbness / flattening.”
 - “The story: this is just how I am now.”
 
-### What it’s pointing at
+#### What it’s pointing at
 
 - long-term overload,
 - a sense that feeling fully would be too much,
 - a protective move: “turn down the volume so we can keep functioning.”
 
-### Move One – stabilise
+#### Move One – stabilise
 
 Here stabilising is mostly about **care** and **containment**:
 
@@ -199,7 +193,7 @@ You’re saying:
 
 > “Even if I feel nothing, this life is still under my care.”
 
-### Move Two – dissolve (gently, slowly)
+#### Move Two – dissolve (gently, slowly)
 
 - De-clump:
   - notice how “nothing ever changes” is a compression:
@@ -220,12 +214,10 @@ It’s to gently remind the system that:
 
 ### 4. Anger at being mistreated
 
----
-
 **Situation:**  
 Someone keeps crossing a line (talking over you, criticising harshly, dismissing your needs). Anger flares.
 
-### How it appears
+#### How it appears
 
 - Body: heat, tension, a sense of “pushing against”.
 - Attention: locked on their behaviour, past examples.
@@ -236,13 +228,13 @@ Name it:
 - “Anger about a repeated boundary violation.”
 - “There’s a sense that something about this pattern is not okay.”
 
-### What it’s pointing at
+#### What it’s pointing at
 
 - your values around respect and dignity,
 - a possible mismatch between your current boundaries and how you’re being treated,
 - a need for the pattern to change.
 
-### Move One – stabilise
+#### Move One – stabilise
 
 - Body:
   - feel the energy in the body without immediately acting it out.
@@ -259,7 +251,7 @@ You’re clarifying:
 
 - “I, here, am someone for whom this is not acceptable.”
 
-### Move Two – dissolve
+#### Move Two – dissolve
 
 - De-clump:
   - separate:

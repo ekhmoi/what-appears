@@ -21,8 +21,6 @@ The claim here is simple:
 
 ### Self as a high-compression “I”-module
 
----
-
 From Part I, recall the **me-stack**:
 
 - body-me,
@@ -69,8 +67,6 @@ Seeing self as compression means:
 
 ### Mind as the space of live compressions and proposals
 
----
-
 We can also use **mind** in a specific way here.
 
 Instead of “mind” = mysterious substance, think:
@@ -107,8 +103,6 @@ In this view:
 ---
 
 ### Time and story as trajectory-compressions
-
----
 
 Now to **time**.
 
@@ -160,8 +154,6 @@ You’re editing a core compression that sits right under “self”.
 ---
 
 ### All together now
-
----
 
 If we stack it, one possible picture is:
 

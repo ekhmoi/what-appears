@@ -26,8 +26,6 @@ This chapter is about:
 
 ### Remembering: from my field, others are patterns _and_ centres
 
----
-
 From _here_, others still appear as patterns in **your** field:
 
 - their face,
@@ -57,8 +55,6 @@ This “as if” is not fake. It’s:
 ---
 
 ### The ego temptation: turning others into props
-
----
 
 Under certain ego-generating protocols (from the previous chapter):
 
@@ -98,8 +94,6 @@ That usually leads to:
 
 ### A different protocol: centre-to-centre
 
----
-
 You can adopt a different protocol, something like:
 
 > “From my side, you appear as patterns in my field.  
@@ -125,8 +119,6 @@ You just stop treating others as scenery.
 ---
 
 ### Seeing others’ difficulty and moves
-
----
 
 Once you see others as centres, you can start to recognise:
 
@@ -163,11 +155,9 @@ You get to hold:
 
 ### Honesty and humility in relationship
 
----
-
 The protocols from the previous chapter apply here too.
 
-### Inner honesty in relationship
+#### Inner honesty in relationship
 
 Inner honesty might sound like:
 
@@ -184,7 +174,7 @@ It reduces:
 - pure self-blame,
 - fantasy versions of them.
 
-### Humility in relationship
+#### Humility in relationship
 
 Humility might sound like:
 
@@ -202,8 +192,6 @@ That can de-escalate certain spirals long before any formal technique.
 ---
 
 ### Boundaries: caring about both fields
-
----
 
 Recognising others as centres doesn’t mean:
 
@@ -234,8 +222,6 @@ They’re often messy and imperfect. That’s fine.
 
 ### Animals and other non-human centres
 
----
-
 Briefly on animals:
 
 - If you relate to a particular animal as a centre,
@@ -264,8 +250,6 @@ And then bring the same protocols:
 ---
 
 ### Why this matters for working with difficulty
-
----
 
 Most of the big feelings we care about:
 

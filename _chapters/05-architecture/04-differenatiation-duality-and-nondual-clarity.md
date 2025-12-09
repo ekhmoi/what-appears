@@ -11,8 +11,6 @@ There’s one last tangle that shows up a lot for people who care about this stu
 
 ### Differentiation: useful distinctions in the field
 
----
-
 Differentiation is simple:
 
 > the ability to tell **this** from **that** in experience.
@@ -37,8 +35,6 @@ It’s just the field doing detailed patterning.
 ---
 
 ### Duality: turning distinctions into two substances
-
----
 
 Duality, in the sense I care about here, is a step further:
 
@@ -72,8 +68,6 @@ The metaphysical splits tend to create extra suffering and confusion.
 ---
 
 ### Nondual clarity in this model
-
----
 
 Nondual clarity, as I’m using the phrase, is not:
 
@@ -125,8 +119,6 @@ Experience is more like:
 
 ### Why this matters for actual life
 
----
-
 You don’t need nondual language to live well.  
 You absolutely don’t need to chase special states.
 
@@ -157,8 +149,6 @@ by showing how each is privileging some compressions over others.
 ---
 
 ### Keeping what’s useful, dropping the rest
-
----
 
 To be clear:
 

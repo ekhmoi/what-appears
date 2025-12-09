@@ -11,8 +11,6 @@ Here’s the quick map.
 
 ### 1. Field and compression
 
----
-
 We put two words at the core:
 
 - **field** – the live, unified “all of this” of experience right now.
@@ -41,8 +39,6 @@ Suffering often shows up as:
 ---
 
 ### 2. Awareness-mode and world-level
-
----
 
 We named two big “regimes” the system runs:
 
@@ -84,8 +80,6 @@ Those can be disorienting _or_ clarifying, depending on context.
 
 ### 3. Self, mind, and time as compressions
 
----
-
 We then placed three big pieces into this architecture:
 
 - **Self**
@@ -124,8 +118,6 @@ Feelings run **across the stack** as:
 ---
 
 ### 4. Differentiation, duality, and nondual clarity
-
----
 
 We distinguished:
 
@@ -166,8 +158,6 @@ But having it in the architecture can:
 ---
 
 ### 5. Take it or leave it
-
----
 
 Finally:
 

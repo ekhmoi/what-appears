@@ -21,8 +21,6 @@ This chapter is not a full theory of love. It’s just:
 
 ### Love as a way the field organises around “what matters”
 
----
-
 Start simple.
 
 Bring to mind someone or something you genuinely care about:
@@ -69,8 +67,6 @@ Already we can see:
 
 ### Attachment: love plus dependency and history
 
----
-
 When love sits on top of long history and dependency, we usually call it **attachment**:
 
 - you grew up with someone,
@@ -103,8 +99,6 @@ Same lens, same field. Just more layers.
 ---
 
 ### Tenderness and vulnerability
-
----
 
 Another angle:
 
@@ -145,8 +139,6 @@ how safe it is to be visible and to let others matter.
 
 ### Erotic pull
 
----
-
 We don’t need to write a sex manual here, but it’s worth noting:
 
 > erotic feeling is also a **field configuration**.
@@ -181,8 +173,6 @@ Again: same architecture, just loaded territory.
 
 ### Love and the “me”-stack
 
----
-
 In terms of the self layers:
 
 - **body-me**
@@ -215,8 +205,6 @@ Not as a moral rule, but as a lived fact.
 ---
 
 ### Why talk about this in a “difficulty” book?
-
----
 
 Two reasons.
 

@@ -16,8 +16,6 @@ You can think of them as:
 
 ### Awareness-mode: the hub that acts and predicts
 
----
-
 Most of the time, experience is organised around a **hub** that:
 
 - attends,
@@ -61,8 +59,6 @@ It’s the mode you’re in when you:
 
 ### World-level: the high-compression “physical world” view
 
----
-
 On top of awareness-mode, there’s a very fast, very powerful compression:
 
 > **world-level** – treating the field as a world of physical objects, places, and laws.
@@ -102,8 +98,6 @@ From inside:
 
 ### Awareness-mode running world-level
 
----
-
 Most of ordinary life is:
 
 > awareness-mode **running on** world-level compressions.
@@ -132,8 +126,6 @@ This is so default that it’s hard to even notice it’s a specific mode.
 ---
 
 ### When world-level takes over everything
-
----
 
 Problems begin when:
 
@@ -173,8 +165,6 @@ Part of what this architecture is doing is:
 ---
 
 ### When awareness-mode stands back from world-level
-
----
 
 There are also moments where:
 

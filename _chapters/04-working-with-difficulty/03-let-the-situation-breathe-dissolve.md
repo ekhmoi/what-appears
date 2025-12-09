@@ -20,8 +20,6 @@ Here we’ll look at this move more deliberately.
 
 ### Why dissolving helps
 
----
-
 Sometimes the problem is not:
 
 - “I don’t know who I am here,”
@@ -55,11 +53,9 @@ Not as a metaphysical claim, but as a way to give more **degrees of freedom**.
 
 ### Ways the field can soften
 
----
-
 Here are a few kinds of loosening, all within experience:
 
-### 1. De-clumping
+#### 1. De-clumping
 
 Instead of “my whole life is a mess”, you gently unpack:
 
@@ -81,7 +77,7 @@ Subjectively, that can feel like:
 - more **breathing room**,
 - less sense of total doom.
 
-### 2. De-centering “me”
+#### 2. De-centering “me”
 
 Instead of:
 
@@ -105,7 +101,7 @@ For example:
 You’re not erasing yourself.  
 You’re seeing **“me” as one process among others**, not the sole cursed centre of everything.
 
-### 3. Softening inside/outside
+#### 3. Softening inside/outside
 
 Sometimes the field is split into:
 
@@ -123,7 +119,7 @@ You’re recognising that:
 
 - some of the hardest edges are partly being maintained by inner structure.
 
-### 4. Glimpses of non-dual-ish clarity
+#### 4. Glimpses of non-dual-ish clarity
 
 Sometimes, especially for people who’ve had psychedelic or contemplative openings, dissolving can go further:
 
@@ -142,8 +138,6 @@ But it can also be disorienting or destabilising if used at the wrong time or in
 ---
 
 ### How dissolving feels
-
----
 
 When dissolving is helpful, you might notice:
 
@@ -167,8 +161,6 @@ to:
 ---
 
 ### A gentle dissolving script
-
----
 
 Again, not a ritual, just a sketch of a move.
 
@@ -213,8 +205,6 @@ You’re just letting the current compression loosen enough that:
 
 ### When dissolving goes wrong
 
----
-
 Dissolving can be misused too. Common ways:
 
 - **Spiritual bypass**
@@ -246,8 +236,6 @@ That’s often a sign that what’s needed is:
 ---
 
 ### Two moves, not two religions
-
----
 
 The main thing I want to avoid is:
 

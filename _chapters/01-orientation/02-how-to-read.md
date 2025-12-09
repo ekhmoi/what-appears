@@ -6,8 +6,6 @@ Here are a few ways to do that.
 
 ### Basic stance
 
----
-
 ### 1. Compare, don’t believe
 
 Whenever I describe something, don’t ask:
@@ -23,8 +21,6 @@ If no, also good — now we know we’re different somewhere. You don’t have t
 
 ### 2. Stay close to your own field
 
----
-
 Especially in Parts I–III, it’ll help if you literally look up from the page sometimes and check:
 
 - What’s in my visual field right now?
@@ -36,8 +32,6 @@ Let the text point back to **what appears for you**, not to an abstract diagram.
 
 ### 3. Treat models as tools, not laws
 
----
-
 When I talk about “field”, “compression”, “awareness-mode”, “world-level”, and so on later in the book, I’m not describing cosmic laws.
 
 I’m saying:
@@ -47,8 +41,6 @@ I’m saying:
 If a lens doesn’t help — or makes you feel more broken — you can put it down. No loyalty oath required.
 
 ### Noticing when a lens hurts
-
----
 
 Sometimes clever frameworks turn into weapons:
 
@@ -65,32 +57,30 @@ You can always slow down, skip ahead, or close the book. That’s not failure; i
 
 ### Roadmap
 
----
-
 Here’s the rough flow of the book:
 
-- **Part I – What Appears**  
+- **Part I – This Orientation**
+
+- **Part II – What Appears**  
   We start from right now: what’s showing up in experience? Field, world, body, self, time, story — described from the inside, without heavy theory.
 
-- **Part II – How Feelings Appear**  
+- **Part III – How Feelings Appear**  
   We bring in sensation, emotion, mood, and especially uncertainty. How do anxiety, shame, anger, and numbness actually show themselves in the same field?
 
-- **Part III – Working With Difficulty**  
+- **Part IV – Working With Difficulty**  
   We look at what difficult feelings tend to point at, and introduce two basic moves:
 
   - stabilising around a trustworthy “I”,
   - letting the situation breathe and soften.  
     There are concrete walk-throughs.
 
-- **Part IV – Architecture**  
+- **Part V – Architecture**  
   This is the nerd layer. We revisit everything through the lens of field and compression and sketch one possible “architecture of appearance”. Optional but connected.
 
-- **Part V – Epilogue**  
+- **Part VI – Epilogue**  
   Where this overlaps with religious, contemplative, and scientific traditions, and some suggestions for further experiments that don’t turn this into a new dogma.
 
 ### Who I’m imagining as I write
-
----
 
 I’m imagining readers who:
 

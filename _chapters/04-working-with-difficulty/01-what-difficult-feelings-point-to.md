@@ -58,8 +58,6 @@ Not “doesn’t work in some cosmic sense”, but:
 
 ### Quick sketches
 
----
-
 A few examples in this language:
 
 - **Anxiety**
@@ -88,8 +86,6 @@ They’re just invitations to look at what your own difficult feelings _seem to 
 ---
 
 ### The key question: “What is this pointing at?”
-
----
 
 Next time you notice you’re in something hard, you can ask:
 
@@ -124,8 +120,6 @@ Even a rough sketch like “this feels like a me-vs-them bind” is useful.
 
 ### Feeling as pressure to reorganise
 
----
-
 From the “compression” angle, difficult feelings are:
 
 > **pressure** on the current compressions of self/world/time/story,  
@@ -152,8 +146,6 @@ Before we spell them out, one more framing:
 ---
 
 ### You’re not wrong _for_ having the feeling
-
----
 
 A very common extra layer of suffering is:
 

@@ -14,8 +14,6 @@ This chapter is a small collection of orientation points — things to keep in m
 
 ### 1. You are allowed to be ordinary
 
----
-
 A lot of nondual/spiritual/phenomenology talk can create a subtle pressure:
 
 - to be special,
@@ -36,8 +34,6 @@ Sometimes it’s exactly the right move.
 ---
 
 ### 2. Don’t use the lens as a weapon against yourself
-
----
 
 Because this stuff is subtle and powerful, there’s a risk of:
 
@@ -64,8 +60,6 @@ The lens is here to reduce suffering and confusion, not to provide fancier ways 
 ---
 
 ### 3. Beware of sudden, total conclusions
-
----
 
 Big experiences (psychedelic, religious, romantic, traumatic, meditative) can come with big conclusions:
 
@@ -98,8 +92,6 @@ that’s a flag to seek more perspectives and go slower.
 
 ### 4. When in doubt, zoom back to very simple checks
 
----
-
 If you get lost in abstractions, you can reset with:
 
 - What do I actually see / hear / feel in my body right now?
@@ -113,8 +105,6 @@ It’s part of it.
 ---
 
 ### 5. Therapy, friends, and other humans are allowed
-
----
 
 This might be obvious, but I’ll say it anyway:
 
@@ -136,8 +126,6 @@ There’s no purity test.
 ---
 
 ### 6. You can drop the whole lens
-
----
 
 Finally:
 

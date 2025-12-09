@@ -15,8 +15,6 @@ This chapter is about:
 
 ### A crude but useful rule of thumb
 
----
-
 This is oversimplified, but helpful:
 
 - When things feel **too loose**, disorienting, unreal, ungrounded →  
@@ -37,11 +35,9 @@ You can check this in your own experience:
 
 ### Typical sequences
 
----
-
 In many real situations, you’ll do a **sequence**, not a pure move.
 
-### Sequence A: stabilise → then dissolve
+#### Sequence A: stabilise → then dissolve
 
 Useful when you’re fragile, overwhelmed, or close to the edge.
 
@@ -68,7 +64,7 @@ Example:
 - Only later do you start dissolving:
   - “maybe the story ‘I am fundamentally broken’ is a very old compression, not the final truth.”
 
-### Sequence B: dissolve → then stabilise
+#### Sequence B: dissolve → then stabilise
 
 Useful when you’re stuck in a very narrow, self-attacking frame.
 
@@ -100,8 +96,6 @@ Example:
 
 ### Listening for which move is needed
 
----
-
 Some quick self-questions:
 
 - **Does my system feel more flooded or more frozen?**
@@ -130,11 +124,9 @@ The moves are experiments. The field will give you feedback.
 
 ### Common failure modes
 
----
-
 A few patterns I’ve seen in myself and others:
 
-### 1. All dissolve, no stabilise
+#### 1. All dissolve, no stabilise
 
 - “It’s all stories, man.”
 - “There is no self, so none of this really matters.”
@@ -161,7 +153,7 @@ The medicine:
   - making concrete promises,
   - letting yourself want things.
 
-### 2. All stabilise, no dissolve
+#### 2. All stabilise, no dissolve
 
 - “This is just who I am, full stop.”
 - “This is how the world works, everyone else is wrong.”
@@ -183,7 +175,7 @@ The medicine:
   - “What if there’s one exception to this story?”
   - “What if this other person’s perspective contains 5% I missed?”
 
-### 3. Using one move to attack the other
+#### 3. Using one move to attack the other
 
 - Using dissolving to attack stabilising:
 
@@ -198,8 +190,6 @@ The point is not to pick a side, but to have **both available**.
 ---
 
 ### Your own style of weaving
-
----
 
 Different people and different histories will bias you:
 

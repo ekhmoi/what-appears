@@ -8,8 +8,6 @@ This chapter is about how to do that **gently**.
 
 ### 1. Keep starting from “what appears”
 
----
-
 The safest anchor is always:
 
 > “What is actually here, in experience, _right now_?”
@@ -35,11 +33,9 @@ If you notice you’re lost in abstractions, come back to this.
 
 ### 2. Light-touch practice ideas
 
----
-
 None of these are obligations. They’re just possible experiments.
 
-### a) Small daily “field snapshots”
+#### a) Small daily “field snapshots”
 
 Once or twice a day, for 30 seconds:
 
@@ -50,7 +46,7 @@ Once or twice a day, for 30 seconds:
 
 That’s it. No big session. Just little micro-check-ins.
 
-### b) Journaling as compression debugging
+#### b) Journaling as compression debugging
 
 When something feels stuck, you can write out:
 
@@ -71,7 +67,7 @@ Then:
 You’re not forcing positive thinking.  
 You’re giving the field more than one compression to choose from.
 
-### c) Conversations in this language
+#### c) Conversations in this language
 
 If you have close people who like this stuff, you can try talking in this lens:
 
@@ -89,8 +85,6 @@ That can be surprisingly de-escalating.
 ---
 
 ### 3. Don’t optimise your whole life around this
-
----
 
 Tempting failure mode:
 
@@ -128,8 +122,6 @@ that’s a sign to:
 
 ### 4. Watch for self-weaponisation
 
----
-
 Red flags that you’re using this against yourself:
 
 - “If I were doing this right, I wouldn’t feel this anymore.”
@@ -154,8 +146,6 @@ You’re a life.
 ---
 
 ### 5. When to bring other tools and people in
-
----
 
 Some situations are bigger than any lens:
 
@@ -187,8 +177,6 @@ If anything, that’s a very clean kind of seeing.
 ---
 
 ### 6. Let the lens age
-
----
 
 Lenses change as you use them.
 
