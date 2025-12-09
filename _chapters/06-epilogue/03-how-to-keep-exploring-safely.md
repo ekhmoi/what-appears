@@ -6,7 +6,7 @@ This chapter is about how to do that **gently**.
 
 ---
 
-### 1. Keep starting from “what appears”
+### Keep starting from “what appears”
 
 The safest anchor is always:
 
@@ -31,7 +31,7 @@ If you notice you’re lost in abstractions, come back to this.
 
 ---
 
-### 2. Light-touch practice ideas
+### Light-touch practice ideas
 
 None of these are obligations. They’re just possible experiments.
 
@@ -84,7 +84,7 @@ That can be surprisingly de-escalating.
 
 ---
 
-### 3. Don’t optimise your whole life around this
+### Don’t optimise your whole life around this
 
 Tempting failure mode:
 
@@ -120,7 +120,7 @@ that’s a sign to:
 
 ---
 
-### 4. Watch for self-weaponisation
+### Watch for self-weaponisation
 
 Red flags that you’re using this against yourself:
 
@@ -145,7 +145,7 @@ You’re a life.
 
 ---
 
-### 5. When to bring other tools and people in
+### When to bring other tools and people in
 
 Some situations are bigger than any lens:
 
@@ -176,7 +176,7 @@ If anything, that’s a very clean kind of seeing.
 
 ---
 
-### 6. Let the lens age
+### Let the lens age
 
 Lenses change as you use them.
 

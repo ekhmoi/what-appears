@@ -54,7 +54,7 @@ It’s a way of saying:
 
 You can stabilise at different levels of the me-stack.
 
-### 1. Body-me
+#### Body-me
 
 Sometimes the first stabilisation is very simple:
 
@@ -74,7 +74,7 @@ You’re saying:
 > “Whatever the stories and futures are,  
 > there is a body here, now, that can be looked after a little.”
 
-### 2. Values and preferences
+#### Values and preferences
 
 Stabilising also means recalling:
 
@@ -92,7 +92,7 @@ You’re giving the system a **local orientation**:
 - not “my final life mission”,
 - just “in this tangle, this is the direction that fits me better.”
 
-### 3. Boundaries
+#### Boundaries
 
 Stabilising often involves making or remembering **boundaries**:
 
@@ -112,7 +112,7 @@ In the field, a boundary shows up as:
 - a clearer “no” or “yes” in the body,
 - often some relief, even if it’s scary.
 
-### 4. Narrative: “the I that is here now”
+#### Narrative: “the I that is here now”
 
 You can also stabilise at the level of story, but lightly:
 

@@ -11,7 +11,7 @@ Here’s the compressed version.
 
 ---
 
-### 1. Difficult feelings as status messages
+### Difficult feelings as status messages
 
 Instead of treating anxiety, shame, anger, numbness, etc. as:
 
@@ -39,7 +39,7 @@ The key question became:
 
 ---
 
-### 2. Move One – stabilise around a trustworthy “I”
+### Move One – stabilise around a trustworthy “I”
 
 First big move:
 
@@ -77,7 +77,7 @@ When stabilising is going well, the field feels:
 
 ---
 
-### 3. Move Two – letting the situation breathe (dissolve)
+### Move Two – letting the situation breathe (dissolve)
 
 Second big move:
 
@@ -115,7 +115,7 @@ When dissolving is going well, the field feels:
 
 ---
 
-### 4. Weaving the two moves
+### Weaving the two moves
 
 We saw that:
 
@@ -143,7 +143,7 @@ We also noted a rough rule of thumb:
 
 ---
 
-### 5. Concrete mini-walkthroughs
+### Concrete mini-walkthroughs
 
 We anchored this with simple examples:
 
@@ -165,7 +165,7 @@ The aim was not to produce scripts, but to:
 
 ---
 
-### 6. Protocols as ego-generators
+### Protocols as ego-generators
 
 We then named some **protocols** — simple rules that shape how the story of “me” is allowed to be written:
 
@@ -191,7 +191,7 @@ These protocols act as **guardrails** so that:
 
 ---
 
-### 7. Other fields: other people, other centres
+### Other fields: other people, other centres
 
 We also zoomed out from just your field and remembered:
 
@@ -204,7 +204,7 @@ From your side, they appear as:
 You never see their field directly, but you can:
 
 - act as if they are centres too, with their own self/world/time architecture,
-- see their difficult states (anxiety, shame, anger, numbness) as configurations in *their* field,
+- see their difficult states (anxiety, shame, anger, numbness) as configurations in _their_ field,
 - hold both:
   - care for your own field,
   - and respect and boundaries in relation to other fields.
@@ -218,7 +218,7 @@ It changes how stabilising and dissolving show up in conflict, love, boundaries,
 
 ---
 
-### 8. Staying oriented when things get intense
+### Staying oriented when things get intense
 
 Finally, we added some guardrails for the whole project:
 

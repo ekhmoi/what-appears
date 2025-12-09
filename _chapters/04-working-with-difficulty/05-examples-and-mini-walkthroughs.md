@@ -12,7 +12,7 @@ They’re just examples of:
 
 ---
 
-### 1. Anxiety about a choice
+### Anxiety about a choice
 
 **Situation:**  
 You’ve been offered a job in another city. If you take it, you leave your current life. If you don’t, you’re afraid you’ll stay stuck.
@@ -80,7 +80,7 @@ The choice may still be hard, but it’s less like walking a tightrope over the 
 
 ---
 
-### 2. Shame after saying something harsh
+### Shame after saying something harsh
 
 **Situation:**  
 You snapped at a friend and said something that felt too cruel. Now you’re replaying it.
@@ -148,7 +148,7 @@ Shame becomes:
 
 ---
 
-### 3. Numbness in a long rough patch
+### Numbness in a long rough patch
 
 **Situation:**  
 Life has been hard for a while. You notice you don’t feel much about things that used to matter.
@@ -212,7 +212,7 @@ It’s to gently remind the system that:
 
 ---
 
-### 4. Anger at being mistreated
+### Anger at being mistreated
 
 **Situation:**  
 Someone keeps crossing a line (talking over you, criticising harshly, dismissing your needs). Anger flares.
