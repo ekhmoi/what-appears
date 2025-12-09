@@ -6,7 +6,7 @@ Here are a few ways to do that.
 
 ### Basic stance
 
-### 1. Compare, don’t believe
+#### Compare, don’t believe
 
 Whenever I describe something, don’t ask:
 
@@ -19,7 +19,7 @@ Ask:
 If yes, good — now we have shared ground.  
 If no, also good — now we know we’re different somewhere. You don’t have to force it.
 
-### 2. Stay close to your own field
+#### Stay close to your own field
 
 Especially in Parts I–III, it’ll help if you literally look up from the page sometimes and check:
 
@@ -30,7 +30,7 @@ Especially in Parts I–III, it’ll help if you literally look up from the page
 
 Let the text point back to **what appears for you**, not to an abstract diagram.
 
-### 3. Treat models as tools, not laws
+#### Treat models as tools, not laws
 
 When I talk about “field”, “compression”, “awareness-mode”, “world-level”, and so on later in the book, I’m not describing cosmic laws.
 
