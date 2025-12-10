@@ -1,6 +1,6 @@
 # What Appears
 
-In Part 0 I gave you the backstory and the disclaimers.
+In Part I I gave you the backstory and the disclaimers.
 
 From here on, we’re going to do something much simpler and much stranger:
 
