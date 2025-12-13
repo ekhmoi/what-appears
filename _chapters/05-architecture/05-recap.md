@@ -1,180 +1,303 @@
-## Part IV Recap: One Possible Architecture of Appearance
+## Recap: One Field, Many Compressions, Human Architecture
 
-Part IV stepped back and said:
+We’ve built a lot of pieces.  
+This chapter is just putting them back on one page.
 
-> “Okay, if we take all of this seriously — field, self, story, feelings, moves —  
-> what kind of architecture does this suggest?”
+This isn’t a philosophy proof.  
+It’s a **working architecture** for “how reality shows up from here as a human life”.
 
-Here’s the quick map.
-
----
-
-### Field and compression
-
-We put two words at the core:
-
-- **field** – the live, unified “all of this” of experience right now.
-- **compression** – how the field groups and simplifies into usable “things”.
-
-The field:
-
-- is structured (figure/background, near/far, inside/outside, etc.),
-- is constantly changing,
-- is the only layer we have direct access to from the inside.
-
-Compression:
-
-- turns raw richness into manageable units:
-  - objects, people, projects, problems, self-stories, life-stories,
-- comes in different **granularities**:
-  - fine (detailed, slow),
-  - medium,
-  - coarse (fast, lossy).
-
-Suffering often shows up as:
-
-> getting stuck inside one **very coarse compression**  
-> and treating it as the whole truth.
+Use it if it compresses things cleanly. Drop it if it doesn’t.
 
 ---
 
-### Awareness-mode and world-level
+### 1. Field
 
-We named two big “regimes” the system runs:
+Start here:
 
-- **awareness-mode**
+> There is **experience happening** right now.  
+> The whole situation at once: sensations, thoughts, emotions, world, self, time.
+
+I call that the **field**.
+
+- It’s **unified** – one “all of this”, not two separate experiences.
+- It’s **structured** – figure/background, near/far, inside/outside.
+- It’s **changing** – new patterns, new groupings, new stories.
+
+“Field” doesn’t say what the universe is made of.  
+It just marks:
+
+> this is the actual ground you stand on as a human:  
+> the fact that something is happening, in this particular configuration.
+
+Everything else is built on top of that.
+
+---
+
+### 2. Compressions
+
+The field is too rich to handle raw.
+
+So the system:
+
+- **groups**,
+- **simplifies**,
+- **names**,
+- **throws away detail**,
+
+until it has usable **units** to move around with.
+
+Those units are **compressions**.
+
+Examples:
+
+- “phone”, “room”, “this conversation”
+- “this relationship”, “my job”, “my problem”
+- “me”, “them”, “my life”, “the future”
+
+Technically:
+
+> a compression is a lossy, low-res description of the field  
+> that’s good enough for some purpose (survival, planning, status, etc.).
+
+You can run many compressions in parallel on the same raw situation:
+
+- “this dinner” as:
+  - social obligation,
+  - emotional risk,
+  - networking opportunity,
+  - sacred time,
+  - sensory joy,
+  - or just “food and noise”.
+
+They’re all different ways of **organising the same field**.
+
+A lot of unnecessary suffering is:
+
+> getting stuck inside one very coarse, hostile compression  
+> and forgetting it’s only one way to carve things up.
+
+---
+
+### 3. Awareness-Mode
+
+On top of the field and its compressions, there’s a **hub**:
+
+> **awareness-mode** – the control loop that:
+>
+> - notices,
+> - models,
+> - predicts,
+> - chooses,
+> - acts.
+
+From inside, it feels like:
+
+- “I am here, aware of this, deciding what to do.”
+
+Architecturally, awareness-mode:
+
+- takes **inputs** (field, compressions),
+- runs **models** (what this means),
+- evaluates **options**,
+- chooses **moves**,
+- watches **outcomes** and updates.
+
+It’s not a soul. It’s a recurring pattern:
+
+- a way the field organises itself around a centre of:
+  - “here”,
+  - “now”,
+  - “I”.
+
+Later modules (self, time, mind) are all **running in/through** awareness-mode.
+
+---
+
+### 4. World-Level
+
+One particular compression is so strong it becomes invisible:
+
+> **world-level** – the field organised as a stable physical world  
+> of objects, spaces, bodies, and laws.
+
+It gives you:
+
+- **things** – chairs, doors, phones, cars, trees, other bodies.
+- **spaces** – rooms, streets, cities, “inside/outside”.
+- **causal patterns** – “push → falls”, “walk → arrive”.
+- **shared coordinates** – “Tuesday 3pm”, “this address”, “that country”.
+
+World-level is:
+
+- high-compression,
+- extremely useful,
+- socially shared,
+- the default background for almost everything.
+
+Most of your day is:
+
+> awareness-mode running on world-level.
+
+That’s how you:
+
+- cross the street,
+- cook,
+- show up to meetings,
+- find your phone again.
+
+The trap is when world-level:
+
+- stops being “one powerful compression”,
+- and starts being “the only real layer”.
+
+Then everything else (inner life, meaning, ethics) gets flattened or trivialised.
+
+---
+
+### 5. Self, Mind, Time/Story
+
+On that stack, three big modules run:
+
+#### Self
+
+> a high-compression **coordination module**:  
+> body + roles + history + values + expectations → “me”.
+
+It lets the system:
+
+- track what happens “to me”,
+- maintain long-term projects,
+- negotiate, bond, defend boundaries.
+
+Too soft → no continuity, no agency.  
+Too rigid → identity prison.
+
+#### Mind
+
+> a **workspace** where compressions are:  
+> proposed, simulated, compared, and updated.
+
+Shows up as:
+
+- thoughts,
+- images,
+- inner dialogues,
+- fantasies,
+- rehearsals,
+- replays.
+
+Mind is the editing room where:
+
+- self-story,
+- world-model,
+- time/story
+
+get constantly rewritten (for better or worse).
+
+#### Time / Story
+
+> **trajectory-compressions**:  
+> how the system compresses change into a timeline and a plot.
+
+- Time axis:
+  - past / present / future,
+  - “before, now, after”.
+- Story overlay:
+  - “I am someone who…”
+  - “My life is about…”
+  - “It always goes like this…”
+
+Vital for learning and planning.  
+Brutal when the story hardens around hopeless scripts.
+
+---
+
+### 6. Differentiation, Duality, Nondual Clarity
+
+- **Differentiation** = genuine, useful distinctions in the field:
+
+  - tree vs bench,
+  - my body vs traffic,
+  - my feelings vs yours.
+
+- **Duality** = turning those distinctions into **two substances**:
+  - inner vs outer,
+  - self vs world,
+  - spiritual vs material,
+  - as if they were different kinds of being.
+
+This model says:
+
+> there is **one field**,  
+> and self/world/inner/outer are **compressions** of that field,  
+> not evidence of separate universes.
+
+**Nondual clarity**, here, is:
+
+- awareness-mode seeing, in real time, that:
+  - self,
+  - world,
+  - time,
+  - inner/outer
+- are all **patterns running in one field**,
+
+while:
+
+- all the practical distinctions (tree vs bus, yes vs no) stay fully intact.
+
+It’s not a trance where nothing matters.  
+It’s a perspective where patterns are seen _as patterns_ while they run.
+
+---
+
+### 7. Where this leaves you
+
+The architecture, in one stack:
+
+- **Field**
+
+  - live, unified situation of experience.
+
+- **Compressions**
+
+  - ways of bundling that situation into objects, people, problems, worlds.
+
+- **World-level**
+
+  - high-compression physical-world model, excellent for not dying.
+
+- **Awareness-mode**
 
   - the hub that senses, models, predicts, chooses.
-  - from the inside: “I am here, aware of this, deciding what to do.”
-
-- **world-level**
-  - the high-compression view of a physical world of objects, spaces, and laws.
-  - chairs, doors, streets, weather, bodies moving in 3D space.
-
-Most of ordinary life is:
-
-> awareness-mode **running on** world-level compressions.
-
-That works extremely well for:
-
-- crossing the street,
-- building things,
-- coordinating with others.
-
-Trouble starts when:
-
-- world-level is treated as the only real layer,
-- everything else (value, meaning, inner life) is forced into its terms.
-
-We also noted:
-
-- there are states where awareness-mode is still functioning,
-- but is **less bound** to world-level:
-  - more focused on raw sensation,
-  - or seeing the room as pure colour/shape,
-  - or where subject/object structure gets weird.
-
-Those can be disorienting _or_ clarifying, depending on context.
-
----
-
-### Self, mind, and time as compressions
-
-We then placed three big pieces into this architecture:
 
 - **Self**
 
-  - a high-compression “I”-module built from body, memory, roles, values, etc.
-  - needed for planning and continuity.
-  - edited all the time by experience and by strong feelings.
+  - high-compression “me” module for coordination.
+
+- **Time / Story**
+
+  - trajectory-compressions tying “me” through events.
 
 - **Mind**
 
-  - not a ghost-stuff, but the **workspace** where compressions are proposed, tested, updated:
-    - perceptual, conceptual, self, story.
-  - “Thoughts” as micro-suggestions for how to compress the current field.
+  - the workspace where all of this is continually edited.
 
-- **Time / story**
-  - compressions of many field-states into **trajectories**:
-    - “my past”, “my future”, “my life so far”.
-  - provide predictions and identity (“I am someone who…”).
-  - actively shape what you notice and expect.
+On top of that, there are:
 
-Stacked together, a rough picture was:
+- relational patterns,
+- world-level protocols (like money, status, scarcity),
+- cultural scripts,
 
-- field →
-- low/mid-level compressions →
-- world-level →
-- awareness-mode →
-- self-compressions →
-- time/story-compressions →
-- all of this playing out in the workspace we call “mind”.
+but they all plug into this same basic architecture.
 
-Feelings run **across the stack** as:
+The rest of the book is about:
 
-- fit/mismatch signals:
-  - “Does this current configuration give us a safe, honest way to move from here?”
+- how these compressions go wrong,
+- how they can soften,
+- and what concrete moves (stabilise / dissolve / re-architect) are actually available from here.
 
----
+Underneath all that, nothing exotic:
 
-### Differentiation, duality, and nondual clarity
-
-We distinguished:
-
-- **differentiation**
-  - useful distinctions in the field:
-    - tree vs bench, body vs not-body, anger vs grief.
-  - necessary for any sane life.
-
-from
-
-- **duality**
-  - turning distinctions into **two substances**:
-    - inner vs outer, mind vs matter, spiritual vs material.
-
-In this frame:
-
-- **self** and **world** are both compressions in the same field,
-- not two metaphysically different realms.
-
-Nondual clarity, here, was:
-
-> awareness-mode seeing how its own compressions work  
-> without turning “me” and “world” into separate kinds of being.
-
-That can show up as:
-
-- ordinary differentiation intact (you still don’t step in front of buses),
-- but less heavy “me-in-here vs world-out-there” feeling,
-- more sense of one continuous happening with local patterns called “me” and “not me”.
-
-You don’t need that to live well.  
-But having it in the architecture can:
-
-- make weird experiences less confusing,
-- make dissolving moves safer,
-- and reduce some extra loneliness/alienation on top of whatever is already hard.
-
----
-
-### Take it or leave it
-
-Finally:
-
-- This architecture is **optional**.
-- If your system finds it helpful, keep it and play.
-- If it feels overbuilt, you can drop it and just keep the more experiential parts of the book.
-
-The point of Part IV is not to hand you a new dogma.  
-It’s to offer one possible big-picture that:
-
-- matches a lot of what we’ve already described,
-- gives structure to “strange” experiences without forcing them into old religious or flat materialist frames,
-- and stays anchored in **what appears** rather than drifting into pure abstraction.
-
-If you carry nothing else from this part, maybe let it be:
-
-> There is one field of appearance,  
-> and many ways of compressing it into worlds, selves, and stories.  
-> None of those compressions are the whole thing,  
-> and they can be reworked.
+> there is a field,  
+> being structured in a particular way,  
+> that you call “my life”.

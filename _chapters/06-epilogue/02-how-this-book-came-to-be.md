@@ -1,4 +1,4 @@
-## DRAFT: How This Book Happened (LSD, People, AI)
+## [D:08.12.2025] How This Book Happened (LSD, People, AI)
 
 A small honesty note about how this thing was made.
 

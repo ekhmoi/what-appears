@@ -2,7 +2,7 @@ name: Build book PDF
 
 on:
   push:
-    branches: [main] # change branch if needed
+    branches: [main, ontology] # change branch if needed
     paths:
       - "_chapters/**"
       - "wrappers/**"

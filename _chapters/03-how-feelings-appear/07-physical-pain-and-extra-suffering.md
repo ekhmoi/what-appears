@@ -1,4 +1,4 @@
-## DRAFT - Physical Pain and Extra Suffering
+## [D:08.12.2025] Physical Pain and Extra Suffering
 
 Before we go further, it’s important to be clear about something this lens **can’t** do.
 

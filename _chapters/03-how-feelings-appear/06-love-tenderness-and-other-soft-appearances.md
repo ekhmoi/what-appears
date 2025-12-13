@@ -1,4 +1,4 @@
-## DRAFT - Love, Care, and Attachment in the Field
+## [D:08.12.2025] Love, Care, and Attachment in the Field
 
 So far in Part II we’ve mostly walked through difficult states:
 

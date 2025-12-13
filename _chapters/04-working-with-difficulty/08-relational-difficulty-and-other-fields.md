@@ -1,4 +1,4 @@
-## DRAFT - Other Fields: People, Animals, and Relational Difficulty
+## [D:08.12.2025] Other Fields: People, Animals, and Relational Difficulty
 
 In Part I we noticed that:
 
@@ -52,11 +52,13 @@ This “as if” is not fake. It’s:
 - a protocol for how you hold others,
 - and it has big consequences for how difficulty unfolds.
 
+Everything in this chapter rests on that double awareness.
+
 ---
 
 ### The ego temptation: turning others into props
 
-Under certain ego-generating protocols (from the previous chapter):
+Under some of the ego-generating protocols from the previous chapter:
 
 - “protect my image at any cost”,
 - “never show weakness”,
@@ -138,6 +140,7 @@ Examples:
   - not necessarily a verdict on your worth.
 
 - Someone clinging rigidly to a view:
+
   - might be terror of dissolving more identity than they can handle,
   - not simply “they’re stupid.”
 
@@ -216,7 +219,112 @@ Healthy boundaries care about **both**:
 - your field’s limits,
 - and the fact that the other is a centre, not an object.
 
-They’re often messy and imperfect. That’s fine.
+They’re often messy and imperfect. That’s fine.  
+You refine them over time, move by move.
+
+---
+
+### [D:10.12.2025]Healers, therapists, and clear anchors
+
+Within this centre-to-centre stance — and with boundaries in place — some people end up playing a special role:
+
+- therapists,
+- “healers”,
+- very steady friends,
+- sometimes a teacher, mentor, or partner.
+
+In this lens, they’re not people who inject healing into you from the outside.
+
+They’re more like **clear anchors**:
+
+> systems that can stay relatively undistorted and regulated  
+> while your field is in confusion or pain,  
+> so that your own self-healing can start working again.
+
+Tie this back to compression:
+
+- each person is a perspective in the world, with a stack of self-compressions (stories, habits, patterns),
+- over time, those compressions can get **too tight**:
+  - rigid identities (“I must be this / I can’t be that”),
+  - chronic threat responses,
+  - collapsed narratives (“my life is nothing but X”),
+  - constant misreading of signals.
+
+When the system is that over-compressed, it has less slack to:
+
+- update models,
+- feel what it actually feels,
+- run its own repair routines.
+
+A healer / therapist / steady friend in this frame is just another node whose field, right now:
+
+- is relatively **clear** (less distortion),
+- can stay **regulated** in the presence of your chaos,
+- doesn’t immediately mirror your panic or collapse.
+
+When your field is in contact with that:
+
+- your body-mind automatically picks up their signals:
+  - posture and breath,
+  - tone of voice,
+  - quality of attention,
+  - non-judging stance.
+- your system gets a **live example** of:
+  - “it is possible to be with all this and not freak out or disconnect.”
+
+Because our architectures are social and imitative, your system will:
+
+- partially **mirror** that clearer configuration,
+- and gradually **reduce the distance** between your state and theirs.
+
+It’s not usually conscious. It’s things like:
+
+- shoulders dropping a bit,
+- breath lengthening,
+- thoughts coming a little slower and less catastrophically,
+- shame loosening just enough to say one more true sentence.
+
+In code-nerd terms, you could say:
+
+> your architecture has self-healing code,  
+> but tight compression and threat have it stuck in an inner  
+> `while(true) { survive; }` loop.  
+> A clear other node shows, by example, “it is safe enough to exit the loop”,  
+> and the system starts running maintenance routines again.
+
+This doesn’t make you powerless or them magical.
+
+- They are **not** the source of your healing.
+- They are:
+  - a catalyst,
+  - a stabiliser,
+  - a mirror whose field your system can safely reference.
+
+Your own system still has to:
+
+- accept,
+- update,
+- and integrate.
+
+You’re not a broken object being fixed.
+
+You’re a **self-organising system** that, for a while, is using a relatively clear other system as a temporary scaffold.
+
+From this angle, a lot of “healing” modalities – therapy, bodywork, some “energy healing” and spiritual settings – can be read as:
+
+- culturally shaped ways of:
+  - establishing trust,
+  - letting one regulated field be an anchor for another,
+  - loosening old compressions just enough that self-healing can restart.
+
+You don’t have to buy any particular metaphysics to see that pattern.  
+You can just notice:
+
+- “My system organises differently in the presence of certain people,”
+- and choose carefully who you let be an anchor when things are rough.
+
+And the same boundary principles still apply:  
+being an anchor for you does not make them your owner, saviour, or unquestionable authority.
 
 ---
 
@@ -225,7 +333,7 @@ They’re often messy and imperfect. That’s fine.
 Briefly on animals:
 
 - If you relate to a particular animal as a centre,
-- you’re already running a “other field over there” model.
+- you’re already running an “other field over there” model.
 
 In difficulty, that may show up as:
 
@@ -241,7 +349,13 @@ You can just notice:
 - “My actions affect a centre that can suffer.”
 - “That matters to me.”
 
-And then bring the same protocols:
+Sometimes, an animal is also a clear anchor:
+
+- your system relaxes around them,
+- your breathing changes,
+- your narratives quiet down a bit.
+
+You can bring the same protocols:
 
 - honesty about what you’re actually doing,
 - humility about what you don’t understand,
@@ -276,6 +390,7 @@ If you hold others as centres:
 - your stabilising moves start to include honest boundaries and care,
 - your dissolving moves start to include seeing beyond caricatures,
 - your ego-story has to grow up a bit, because it’s not the only story in town.
+- you can make skillful use of clear anchors — human or animal — without giving your power away.
 
 You don’t have to get this perfect.
 

@@ -1,4 +1,4 @@
-## DRAFT - Others in What Appears
+## [D:08.12.2025] Others in What Appears
 
 So far, “what appears” has mostly been described from one side:
 

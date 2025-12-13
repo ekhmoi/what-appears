@@ -2,200 +2,316 @@
 
 We’ve got:
 
-- **field** – live feed,
-- **awareness-mode** – hub that senses, models, acts,
-- **world-level** – high-compression physical-world view.
+- **field** – the full live situation,
+- **compressions** – how that situation gets bundled into usable “things”,
+- **awareness-mode** – the control hub,
+- **world-level** – the high-compression physical-world model awareness-mode usually runs on.
 
-Now we’ll bring back three big pieces from earlier parts and place them in this architecture:
+Now we’ll look at three of the most central compressions in this architecture:
 
-- **self**,
-- **mind**,
-- **time/story**.
+- **self**
+- **mind**
+- **time / story**
 
-The claim here is simple:
+These are not decorations.  
+They’re load-bearing parts of how “a human life” is built.
 
-> all three are **compressions** the system runs  
-> to make the field manageable and actionable.
+I’m not treating them as:
 
----
+- sacred metaphysical entities, or
+- bugs we should transcend,
 
-### Self as a high-compression “I”-module
-
-From Part I, recall the **me-stack**:
-
-- body-me,
-- social-me,
-- story-me,
-- moral-me,
-- system-me.
-
-You can think of **self** as:
-
-> a high-compression module that bundles all of that  
-> into a more or less coherent **“I”**.
-
-In architecture terms:
-
-- awareness-mode needs a **stable-ish centre** to plan from.
-- The system maintains a “self-compression” that says:
-  - “This is me: these are my limits, my history, my values, my people.”
-
-That compression:
-
-- uses inputs from the body, memory, language, culture, religion, etc.,
-- gets updated by experience,
-- tries to keep some continuity across time.
-
-It’s not all in one place; it’s spread across the field.  
-But functionally, it behaves like:
-
-- an object the system can refer to: “me”.
-
-Strong feelings often propose edits to this module:
-
-- shame tries to install “I am fundamentally bad”,
-- anxiety tries to install “I am someone who must not fail and isn’t up to it”,
-- anger tries to install “I am the one who must fight / fix this”,
-- numbness tries to install “I am someone who doesn’t feel / for whom nothing changes”.
-
-Seeing self as compression means:
-
-- you can respect its role (you need _some_ stable I),
-- without treating any one version of it as metaphysically absolute.
+but as **structural solutions** the system uses to navigate.
 
 ---
 
-### Mind as the space of live compressions and proposals
+### Self as a High-Compression Coordination Module
 
-We can also use **mind** in a specific way here.
+From the inside, “self” feels like:
 
-Instead of “mind” = mysterious substance, think:
+- this continuous someone,
+- with a body, a history, traits, preferences, values,
+- moving through a world.
 
-> **mind** = the active workspace of compressions and re-compressions  
-> that awareness-mode is currently playing with.
+In this model, **self** is:
 
-Inside that workspace you have:
+> a high-compression module that coordinates actions over time.
 
-- **perceptual compressions:** objects, scenes, faces, voices, inner imagery.
-- **conceptual compressions:** ideas, categories, explanations.
-- **self-compressions:** identities, roles.
-- **story compressions:** “I am someone who…”, “this is the kind of situation where…”.
+It bundles:
 
-“Thoughts” are then:
+- **Body-me**
 
-- micro-proposals for how to compress the current field:
-  - “what if they’re angry with me?”,
-  - “what if this is an opportunity?”,
-  - “what if I’m just broken?”
+  - location, shape, capabilities, vulnerabilities,
+  - “what this organism can physically do right now”.
 
-Awareness-mode:
+- **Role-me / social-me**
 
-- samples these proposals,
-- checks them against feeling (fit/mismatch),
-- chooses some to act on,
-- discards or shelves others.
+  - relationships and positions:
+    - friend, partner, parent, worker, citizen,
+  - reputations and expectations tied to those roles.
 
-In this view:
+- **Story-me**
 
-- mind is not a separate ghost;
-- it’s **what the field is doing** when it experiments with different compressions.
+  - narrative identity:
+    - “I’m the kind of person who…”
+    - “I always / never…”
+    - “My life is about…”
 
----
+- **Moral-me / value-me**
 
-### Time and story as trajectory-compressions
+  - what’s “good/bad, right/wrong, allowed/forbidden” from here,
+  - what would make this life “meaningful” or “wasted”.
 
-Now to **time**.
+All of that is compressed into something like:
 
-In Part I we said:
+> “me, here, in this life.”
 
-- “past” appears as current memories,
-- “future” appears as current expectations,
-- “flow” appears as a sense of continuity.
+Why is that useful?
 
-In architecture terms:
+Because awareness-mode needs a stable-ish anchor to:
 
-> time is a way the system **compresses sequences of field-states**  
-> into manageable trajectories.
+- predict consequences (“what will happen to me if…”),
+- coordinate long-term decisions (“is this aligned with who I am / want to be?”),
+- track commitments, debts, alliances, risks,
+- negotiate with other selves who are doing the same thing.
 
-You don’t store every frame of life.  
-You store:
+The **self-module** is not a lie. It’s a tool:
 
-- key events,
-- turning points,
-- repeated patterns,
-- plus a rough sense of “how things tend to go”.
+- **too weak** → you can’t plan or commit, you feel ghost-like.
+- **too rigid** → you suffer under your own identity.
 
-Then you compress that into **stories**:
-
-- “I am someone who always…”,
-- “people like me usually…”,
-- “my life has been a story of X → Y → Z.”
-
-These stories:
-
-- inform prediction (what you expect next),
-- shape identity (what roles you see as available),
-- filter memory (what you recall as relevant).
-
-They’re not just narratives floating above.  
-They’re **active modules** in the architecture:
-
-- awareness-mode uses them to simulate futures,
-- feelings report on whether these simulations seem survivable or not.
-
-This is why changing a story can feel like:
-
-- changing your past,
-- changing your future,
-- changing who you are — internally.
-
-You’re editing a core compression that sits right under “self”.
+Most of the difficulty in this area isn’t “having a self”.  
+It’s **locking it too hard** around old compressions.
 
 ---
 
-### All together now
+### Mind as the Workspace for Compressions
 
-If we stack it, one possible picture is:
+“Mind” in this model is not a spooky thing, it’s:
 
-- **Field**
+> the workspace where compressions are proposed, compared, updated, and simulated.
 
-  - live feed of appearance.
+From inside, it shows up as:
 
-- **Low / mid-level compressions**
+- thoughts,
+- images,
+- inner dialogue,
+- scenarios,
+- fantasies,
+- commentary.
 
-  - objects, bodies, places, faces, simple actions.
+Architecturally, mind is where the system:
 
-- **World-level**
+- **samples options**:
 
-  - stable physical-world model (objects + laws).
+  - “what if I say this?”
+  - “what if I quit?”
+  - “what if I never see them again?”
 
-- **Awareness-mode**
+- **runs simulations**:
 
-  - hub running on field + world-level + other compressions, doing sensing → modelling → acting.
+  - tries out futures,
+  - replays pasts,
+  - cheap-tests different compressions (“maybe they didn’t hate me, maybe they were scared”).
 
-- **Self-compressions**
+- **re-encodes experiences**:
 
-  - “I” as body + history + roles + values, providing a centre for planning.
+  - after something happens, mind revisits it and:
+    - assigns meaning,
+    - connects it to “who I am”,
+    - updates predictions.
 
-- **Story / time-compressions**
+Mind is where **architecture is actively maintained**.
 
-  - past/future/“my life” as trajectory modules that guide predictions and choices.
+Examples:
 
-- **Mind**
-  - the active workspace where all these compressions are proposed, updated, tested.
+- You go on a date:
 
-Feelings sit across this whole stack as:
+  - field: a few hours of sights, sounds, sensations, micro-interactions.
+  - mind afterwards:
+    - compresses into “it went well / badly / confusingly,”
+    - attaches it to self (“I’m awkward / I’m charming / I’m avoidant”),
+    - updates world-model (“people like them exist / don’t exist”).
 
-- **fit/mismatch signals**:
-  - “does this current configuration (self + world + time)  
-     give a safe, honest way to move from here?”
+- You get criticised at work:
 
-In Parts I–III we’ve mostly lived _inside_ the field looking out.  
-Part IV is just zooming out and saying:
+  - field: tone of voice, words, body sense.
+  - mind:
+    - can compress it as “proof I’m incompetent,”
+    - or “useful feedback,”
+    - or “politics, not about my worth”.
 
-> “Okay, here’s one way the whole thing might be wired.”
+The same raw event can be architected very differently depending on how **mind** compresses it.
 
-In the last chapter of this part, we’ll talk about:
+Mind is not in charge of everything, but:
 
-- **differentiation vs duality** – keeping distinctions without hard metaphysical splits,
-- and how **nondual clarity** shows up in this architecture.
+- it’s the main **editing room** where:
+  - self,
+  - world,
+  - time,
+  - and meaning
+
+get adjusted.
+
+---
+
+### Time and Story as Trajectory-Compressions
+
+Time here is not “physics time”.  
+It’s:
+
+> how the system compresses change into a timeline and a story.
+
+Two main parts:
+
+- **Time axis**
+
+  - past, present, future,
+  - “before / now / after,”
+  - ordered track of “what happened”.
+
+- **Story overlay**
+
+  - sequences turned into plots:
+    - “I went through hardship and grew,”
+    - “I keep failing,”
+    - “things fall apart right when they start to work.”
+
+From the architecture’s point of view, time/story is:
+
+- a way for awareness-mode to:
+  - track cause/effect (“this led to that”),
+  - update predictions (“this will probably lead to that again”),
+  - maintain identity over changes (“I’m still me across all this”).
+
+It’s extremely useful:
+
+- you need it to learn,
+- to care about future consequences,
+- to remember commitments and plans.
+
+It’s also a huge source of suffering when:
+
+- the **story compression** is rigid, harsh, or outdated, e.g.:
+
+  - “I always mess things up,”
+  - “I’m running out of time,”
+  - “it’s too late for me,”
+  - “I can’t escape my past.”
+
+The events are gone.  
+The **architecture of the story** is what’s still hurting you.
+
+---
+
+### How Self, Mind, and Time Interlock
+
+Let’s put the pieces together.
+
+A very simplified stack:
+
+- **Field** – live situation.
+- **World-level** – “physical world with objects and rules”.
+- **Awareness-mode** – hub that senses, models, decides, acts.
+- **Self-module** – high-compression “me” used for coordination.
+- **Time/story** – trajectory of that “me” through the world.
+- **Mind workspace** – where all of this gets updated.
+
+You can picture a loop:
+
+1. Field presents a situation.
+2. World-level frames it as “me in a world with certain constraints.”
+3. Self-module says:
+   - “This is happening **to me** (someone with this history and these values).”
+4. Time/story module says:
+   - “This fits / clashes with my ongoing story like this…”
+5. Mind:
+   - simulates options,
+   - chooses a move,
+   - compresses the result back into self + story.
+
+Round and round.
+
+This is what I mean by **architecture**:
+
+- a specific way the field organises itself into:
+  - someone,
+  - somewhere,
+  - in a story,
+  - with options and consequences.
+
+---
+
+### Where suffering tends to cluster in this stack
+
+In this model, a lot of chronic suffering lives in a few predictable places:
+
+- **Self-module too rigid**
+
+  - “I am fundamentally [broken / unlovable / dangerous / worthless].”
+  - Identity hardened around old compressions.
+  - Any new event is forced to fit that template.
+
+- **Time/story stuck**
+
+  - “It’s always like this.”
+  - “Nothing changes.”
+  - “It’s already too late.”
+  - The system stops genuinely updating.
+
+- **Mind in hostile mode**
+
+  - mostly running catastrophic simulations,
+  - hunting for confirming evidence,
+  - endlessly replaying worst moments as if they’re still happening.
+
+- **World-level hijacked by hostile global protocols**
+
+  - money, status, and scarcity compressions flooding everything with “not enough”,
+  - constant sense of threat even when locally safe.
+
+If you think of these as **modules in an architecture**, you gain some leverage:
+
+- you’re not “broken essence”,
+- you’re running particular compressions on top of a field that could be structured differently.
+
+---
+
+### Why I keep calling these “compressions” instead of “illusions”
+
+I’m not saying:
+
+- self is an illusion,
+- time is an illusion,
+- mind is an illusion.
+
+That language tends to:
+
+- make people distrust their own experience,
+- collapse into “nothing is real, nothing matters”.
+
+In this architecture:
+
+- they are **compressions**:
+  - lossy, biased, limited,
+  - but also necessary for navigation.
+
+The point is not to “get rid of self/mind/time” but to:
+
+- see them as:
+  - configurable modules,
+  - running on a field that doesn’t actually depend on any particular configuration.
+
+Later, when we talk about **nondual clarity**, we’ll look at:
+
+- what happens when:
+  - these compressions are seen _as_ compressions while they’re running,
+  - awareness-mode stops taking its own models as the whole of reality.
+
+For now, the main claims are:
+
+- self is a high-compression coordination module,
+- mind is the editing workspace for compressions,
+- time/story is a trajectory-compression tying it all together.
+
+All three are **part of the architecture of appearance**, not ultimate truths to worship and not bugs to exterminate.

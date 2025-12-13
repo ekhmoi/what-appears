@@ -1,4 +1,4 @@
-## DRAFT - Protocols: Honesty, Humility, and How Ego Gets Generated
+## [D:08.12.2025] Protocols: Honesty, Humility, and How Ego Gets Generated
 
 By now we’ve got:
 
