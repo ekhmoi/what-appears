@@ -28,7 +28,7 @@ Treat it as a **working model**: a way of organising what you’ve probably alre
 
 ---
 
-## Two views of the same thing
+### Two views of the same thing
 
 Let’s start with the double view that kept bugging me:
 
@@ -46,7 +46,7 @@ Same reality, two zoom levels.
 
 ---
 
-## Field = “there is something at all”
+### Field = “there is something at all”
 
 When I say “field” here, I don’t mean:
 
@@ -77,7 +77,7 @@ That’s all I mean by “field doesn’t move”:
 
 ---
 
-## Patterns = ways of organising the field
+### Patterns = ways of organising the field
 
 Now shift to pattern view.
 
@@ -122,11 +122,11 @@ So in this book, the architecture lives here:
 
 ---
 
-## A 2025-friendly metaphor: state space & compression
+### A 2025-friendly metaphor: state space & compression
 
 Instead of canvas/paint, let’s use something sharper.
 
-### State space
+#### State space
 
 Imagine a huge, abstract **state space**:
 
@@ -141,7 +141,7 @@ The “field” in this chapter is:
 The state space doesn’t get “more state space” when you move around in it.  
 It’s just: there is a configuration.
 
-### Compression
+#### Compression
 
 Now imagine you take that absurdly dense state and run it through a **lossy codec**:
 
@@ -171,7 +171,7 @@ The **descriptions** change resolution and shape.
 
 ---
 
-## So how can the field “not move” while patterns move constantly?
+### So how can the field “not move” while patterns move constantly?
 
 With this language:
 
@@ -201,7 +201,7 @@ They’re just different granularity.
 
 ---
 
-## Where architecture fits in this picture
+### Where architecture fits in this picture
 
 When I talk about “architecture”, I’m not claiming:
 
@@ -237,7 +237,7 @@ It only cares about **what shows up** and **how it’s organised**.
 
 ---
 
-## Why “low res” is not an insult
+### Why “low res” is not an insult
 
 When I say your point of view is “low resolution”, I don’t mean:
 
@@ -286,7 +286,7 @@ It’s just a useful reminder that your map is not the territory.
 
 ---
 
-## How to read the rest of the book with this in mind
+### How to read the rest of the book with this in mind
 
 A few simple pointers:
 
